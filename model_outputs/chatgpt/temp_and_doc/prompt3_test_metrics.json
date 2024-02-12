@@ -1,0 +1,9 @@
+{
+  "test_rouge1": 0.4564293183654836,
+  "test_rouge2": 0.2920466634797033,
+  "test_rougeL": 0.34503924844442535,
+  "test_rougeLsum": 0.3451611940610045,
+  "test_bertscore_p": 0.869593290335824,
+  "test_bertscore_r": 0.9035251485674005,
+  "test_bertscore_f1": 0.8846358753847734
+}

@@ -1,0 +1,15 @@
+{
+  "test_loss": 1.48773193359375,
+  "test_rouge1": 0.4742,
+  "test_rouge2": 0.2953,
+  "test_rougeL": 0.3701,
+  "test_rougeLsum": 0.37,
+  "test_meteor": 0.4233,
+  "test_bertscore_p": 0.9035,
+  "test_bertscore_r": 0.8974,
+  "test_bertscore_f1": 0.9001,
+  "test_mean_summary_len": 63.6029,
+  "test_runtime": 228.027,
+  "test_samples_per_second": 0.917,
+  "test_steps_per_second": 0.118
+}

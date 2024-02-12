@@ -1,0 +1,2579 @@
+{
+  "TST3-MUC4-0010.2": {
+    "document": [
+      "the government of el salvador strongly condemns the terrorist attacks carried out with explosives today against the committee of mothers of political prisoners and missing in el salvador and against the salvadoran workers national union federation.",
+      "as a result of these attacks, several persons were wounded and others died.",
+      "the government offers its condolences.",
+      "the government repudiates these irrational and criminal actions and the terrorist attack carried out on 30 october by the fmln against the armed forces staff installations, where 1 civilian died and 14 others were wounded.",
+      "it is evident that these actions are part of a plot whose objective is to block the dialogue initiated by president alfredo cristiani.",
+      "the government has ordered a careful investigation to determine what happened and to file charges against criminal groups that have unleashed this increased wave of terrorist violence to create a climate of unrest and to block the road to peace.",
+      "finally, the government of el salvador reaffirms its determination to continue the search for peace through the dialogue, and it states that in spite of these bloody events, salvadorans must remain calm and not give up hopes to find a solution to the conflict through civilized means.",
+      "31 october 1989, national secretariat of communications."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [],
+      "individual perpetrators": [
+        "criminal groups"
+      ],
+      "organizations responsible": [
+        "fmln"
+      ],
+      "physical targets": [
+        "armed forces staff installations"
+      ],
+      "type": "attack",
+      "victims": [
+        "civilian"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "on october 30, 1989, in el salvador, a terrorist attack was carried out by the fmln against the armed forces staff installations, resulting in the death of one civilian and the injury of 14 others.",
+        "the government strongly condemned these actions, which were part of a plot to block the dialogue initiated by president alfredo cristiani.",
+        "a careful investigation has been ordered to determine what happened and file charges against the criminal groups responsible for this increased wave of terrorist violence."
+      ],
+      "score": 4,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "on october 30, 1989, the fmln, one of the criminal groups in el salvador, carried out a terrorist attack on armed forces staff installations, resulting in the death of 1 civilian and injuries to 14 others."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 3": {
+      "text": [
+        "on 30 october, the fmln carried out a terrorist attack on the armed forces staff installations in el salvador, where one civilian died and 14 others were wounded."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 4": {
+      "text": [
+        "the government of el salvador strongly condemns the terrorist attack carried out on 30 october by the fmln against the armed forces staff installations, where one civilian died and 14 others were wounded.",
+        "it is evident that these actions are part of a plot to block the dialogue initiated by president alfredo cristiani."
+      ],
+      "score": 4,
+      "model": "bart"
+    },
+    "summary 5": {
+      "text": [
+        "on october 30, 1989, the fmln, along with associated criminal groups, carried out a terrorist attack on armed forces staff installations in el salvador.",
+        "the attack resulted in the death and injury of several civilians.",
+        "this event, which was part of a broader scheme to disrupt president alfredo cristiani's initiated dialogue, has been condemned by the salvadoran government who are conducting an investigation."
+      ],
+      "score": 2,
+      "model": "gpt4"
+    },
+    "summary 6": {
+      "text": [
+        "the government of el salvador strongly condemns the terrorist attacks carried out with explosives on 30 october by criminal groups affiliated with the fmln against the armed forces staff installations, where one civilian died and 14 others were wounded."
+      ],
+      "score": 3,
+      "model": "t5"
+    }
+  },
+  "TST3-MUC4-0013.3": {
+    "document": [
+      "the fmln reports to our people and the people of the world the following: 1.",
+      "the massacre against the salvadoran workers national union federation (fenastras) was planned in cold blood.",
+      "the site and the moment when the fenastras leaders were meeting had been selected.",
+      "2.",
+      "we have trustworthy information from our intelligence organs that this action was ordered by colonel ponce, that cristiani knew about it and approved it, and that it was carried out by colonel elena fuente as the head of the morbid death squad of the army's 1st infantry brigade in response to our military attack on the army staff.",
+      "this behavior by cristiani should surprise no one.",
+      "terrorism is an old practice of the nationalist republican alliance (arena).",
+      "only a few days ago, arena assassins tried to kill the president of the mortgage bank, mr mason, for not following their orders.",
+      "3.",
+      "the people demand the resignation of chief of staff col emilio ponce because his responsibility in this criminal action is real.",
+      "4.",
+      "the fmln has prudently taken time before adopting a definite position.",
+      "the government and the armed forces have adopted an irresponsible attitude and have brazenly accused the fmln of the crimes they commit.",
+      "in view of this attitude and of the people's indignation, we have to prevent our presence at the dialogue from being used to cover up the government's responsibility in this massacre and to enhance the mask of moderator and negotiator that cristiani has been using to secure political support and u.s. financial support to extend the war.",
+      "in san jose, speaking on its view of the war, the government said that it considers popular movements as support organizations of the fmln, and therefore, as enemies of the government in the armed conflict.",
+      "we demanded that the government delegation give us a list of those organizations, but to no avail.",
+      "the terrorist attacks and massacres are now yielding the lists that were denied to us at the dialogue table.",
+      "even before the san jose meeting, the government had greatly increased its repression.",
+      "since the meeting, it has increased its detentions and attacked the residences of leaders of the social christian people's movement and the udn (nationalist democratic union), university, fecmasan (msgr oscar arnulfo romero federation of committees of mothers and relatives), and fenastras.",
+      "meanwhile, cristiani is maintaining his hypocritical position of moderation.",
+      "the massacres, detentions, and repression of earthquake victims, the repatriated, universities, labor unions, peasant cooperatives, mothers' organizations, and other segments of the population show that the war of the armed forces, government, and arena is aimed against the people and, therefore, these groups cannot and will not remain idle.",
+      "the salvadoran people have the right to take up arms and exercise their legitimate defense.",
+      "the armed people's and revolutionary struggle headed by the fmln is just, legitimate, and necessary.",
+      "(words indistinct) two-faced cristiani administration, the fmln has decided to immediately contact the dialogue observers and the church, which is the mediator, to demand through them guarantees for opposition civic and labor groups and a review of the current conditions of the dialogue, negotiation process, and its prospects.",
+      "meanwhile, we believe that it is necessary to suspend our participation in the caracas meeting.",
+      "(signed) fmln general command: commanders salvador sanchez ceren, francisco jovel, shafik jorge handal, eduardo sancho, and joaquin villalobos el salvador, 2 november 1989"
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "el salvador"
+      ],
+      "individual perpetrators": [],
+      "organizations responsible": [
+        "government"
+      ],
+      "physical targets": [
+        "residences of leaders of the social christian people's movement",
+        "udn [nationalist democratic union]",
+        "university",
+        "fecmasan",
+        "fenastras"
+      ],
+      "type": "attack",
+      "victims": [],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "the fmln reports that the government has carried out an attack on multiple organizations, including the residences of leaders of the social christian people's movement, the udn (nationalist democratic union), university, fecmasan, and fenastras.",
+        "the attack was planned and executed by the el salvador government, with colonel ponce ordering it and president cristiani approving it."
+      ],
+      "score": 4,
+      "model": "ref"
+    },
+    "summary 2": {
+      "text": [
+        "on november 2, 1989, the fmln reports that a planned massacre against the salvadoran workers national union federation (fenastras) was carried out by the government, specifically ordered by colonel ponce and approved by president cristiani.",
+        "in response to this attack, the fmln demands the resignation of chief of staff colonel emilio ponce and suspends their participation in the caracas meeting.",
+        "the government's repression and attacks have extended to residences of leaders from various organizations, including the social christian people's movement, udn, university, and fenastras."
+      ],
+      "score": 2,
+      "model": "chatgpt"
+    },
+    "summary 3": {
+      "text": [
+        "the salvadoran government has successfully carried out an attack on various organizations.",
+        "targets included the residences of leaders of the social christian people's movement, udn (nationalist democratic union), university, fecmasan (monsignor oscar arnulfo romero federation of committees of mothers and relatives), and fenastras (salvadoran workers national union federation).",
+        "the exact date of the event is unknown, but the document was published on november 2, 1989.",
+        "\n"
+      ],
+      "score": 5,
+      "model": "gpt4"
+    },
+    "summary 4": {
+      "text": [
+        "the fmln accuses the government of ordering the massacre against the salvadoran workers national union federation (fenastras) during a dialogue in san jose.",
+        "the residences of leaders of the social christian people's movement and the udn (nationalist democratic union), university, fecmasan, and fenastras have been attacked."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 5": {
+      "text": [
+        "since 2 november 1989, the fmln has increased its detentions and attacked the residences of leaders of the social christian people's movement and the udn (nationalist democratic union), university, fecmasan (msgr oscar arnulfo romero federation of committees of mothers and relatives), and fenastras in el salvador."
+      ],
+      "score": 2,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "the fmln accuses the government of ordering the attack on the residences of leaders of the social christian people's movement and the udn (nationalist democratic union) in el salvador, as well as the fecmasan (msgr oscar arnulfo romero federation of committees of mothers and relatives) and the university."
+      ],
+      "score": 1,
+      "model": "pegasus"
+    }
+  },
+  "TST3-MUC4-0017.1": {
+    "document": [
+      "farabundo marti national liberation front (fmln) urban commandos have denied reports they participated in an attack on vice president-elect francisco merino's home.",
+      "at 0530 this morning, unidentified individuals placed three explosive devices at the main entrance of merino's home in the machiliguas neighborhood.",
+      "two of the devices exploded.",
+      "reports indicate that the perpetrators, who arrived in a vehicle, also fired at the guards protecting merino's residence.",
+      "early reports pointed to urban commandos as the presumed perpetrators, but a spokesman for the modesto ramirez central front, in a telephone call, denied the report.",
+      "(begin recording) (unidentified fmln spokesman) on this occasion, the fmln must explain that our forces did not participate in the attack in question.",
+      "the fmln warns that the armed forces are taking advantage of the situation to create confusion and promote true state terrorism.",
+      "the fmln condemns the (word indistinct) against our people and warns that these actions will not be allowed to take place without the appropriate response.",
+      "the fmln claims responsibility for actions in which it is directly involved.",
+      "in this case, we were not directly involved.",
+      "the fmln warns that the armed forces are taking advantage of this situation to perpetrate attacks on individuals and institutions which can be easily attributed to the fmln.",
+      "(end recording) the fmln described statements made by president-elect alfredo cristiani as irresponsible.",
+      "the president-elect immediately condemned the attack and attributed it to the urban commandos.",
+      "as a result of the attack, a 15-year-old girl was wounded and considerable damage was reported.",
+      "merino is currently out of the country."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "this morning"
+      ],
+      "location": [
+        "machiliguas"
+      ],
+      "individual perpetrators": [
+        "urban commandos",
+        "unidentified individuals"
+      ],
+      "organizations responsible": [
+        "farabundo marti national liberation front"
+      ],
+      "physical targets": [
+        "vice president-elect francisco merino's home"
+      ],
+      "type": "bombing",
+      "victims": [
+        "15-year-old girl",
+        "guards protecting merino's residence"
+      ],
+      "weapons": [
+        "three explosive devices"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "at 0530 this morning, unidentified individuals placed three explosive devices at the main entrance of vice president-elect francisco merino's home in the machiliguas neighborhood.",
+        "two of the devices exploded, and a 15-year-old girl was wounded.",
+        "the perpetrators, who arrived in a vehicle, also fired at the guards protecting merino's residence."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 2": {
+      "text": [
+        "farabundo marti national liberation front (fmln) urban commandos and unidentified individuals are claimed to be responsible for a bombing attack on vice president-elect francisco merino's home in the machiliguas neighborhood at 0530 this morning, though the fmln denies responsibility.",
+        "three explosive devices were placed at the main entrance, and two detonated, causing considerable damage and injuring a 15-year-old girl.",
+        "the perpetrators, arriving in a vehicle, also fired at guards protecting merino's residence."
+      ],
+      "score": 5,
+      "model": "ref"
+    },
+    "summary 3": {
+      "text": [
+        "this morning, unidentified individuals placed three explosive devices at the main entrance of vice president-elect francisco merino's home in the machiliguas neighborhood, two of which exploded.",
+        "the perpetrators also fired at the guards protecting merino's residence.",
+        "a 15-year-old girl was wounded and considerable damage was reported.",
+        "merino is currently out of the country."
+      ],
+      "score": 2,
+      "model": "t5"
+    },
+    "summary 4": {
+      "text": [
+        "unidentified individuals placed three explosive devices at the main entrance of vice president-elect francisco merino's home in the machiliguas neighborhood, resulting in two explosions and gunfire directed at the guards protecting the residence.",
+        "initially believed to be the work of the farabundo marti national liberation front (fmln) urban commandos, an fmln spokesperson denied the group's involvement, accusing the armed forces of using the situation to perpetrate attacks that could be falsely attributed to the fmln.",
+        "a 15-year-old girl was injured in the attack, and considerable damage was reported."
+      ],
+      "score": 4,
+      "model": "chatgpt"
+    },
+    "summary 5": {
+      "text": [
+        "unidentified individuals, believed to be urban commandos, successfully conducted a bombing at vice president-elect francisco merino's home, utilizing three explosive devices, two of which exploded.",
+        "the incident, which occurred in the machiliguas neighborhood, resulted in a 15-year-old girl and guards at the residence getting injured.",
+        "despite early suspicions, the farabundo marti national liberation front denied involvement in the attack."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 6": {
+      "text": [
+        "this morning, unidentified individuals placed three explosive devices at the main entrance of vice president-elect francisco merino's home in the machiliguas neighborhood, wounding a 15-year-old girl and causing considerable damage.",
+        "the perpetrators also fired at the guards protecting merrio's residence.",
+        "the farabundo marti national liberation front (fmln) denies any involvement in the attack, claiming that they were mistaken for urban commandos."
+      ],
+      "score": 5,
+      "model": "bart"
+    }
+  },
+  "TST3-MUC4-0018.2": {
+    "document": [
+      "guerrillas attacked the 1st infantry brigade garrison and the national police station in san salvador's sacamil neighborhood tonight.",
+      "according to preliminary reports, at least six fmln guerrillas were killed during the attack.",
+      "three policemen, a soldier of the 1st infantry brigade, and four civilians were wounded and taken by the red cross to the local hospital.",
+      "urban guerrillas began the attack at 1805.",
+      "they struck both the 1st infantry brigade and the national police station in the sacamil neighborhood.",
+      "(begin recording) (unidentified military officer) the guerrillas used 60-mm mortars and rpg-18 rocket launchers.",
+      "the terrorists traveled in cars.",
+      "they destroyed several power poles on 29th street and machinegunned several transformers.",
+      "the attack came mainly from the south, where the cohache organization is located, and from the hondua church here.",
+      "they also attacked from the northeast, but most of the attackers came from the direction of the national university, firing from there at some (word indistinct) we have in the area.",
+      "we had removed the cordon around the university 4 or 5 days ago, and (words indistinct) fired from there.",
+      "the wounded include at least three civilians, one of whom is in serious condition and has already been taken by our troops to the military hospital; perhaps five traffic policemen, although this has not been confirmed; and a soldier of the belloso battalion.",
+      "no damage was caused here at the garrison.",
+      "only a few shells hit the garrison, and these were 60-mm mortar shells, which are not powerful enough to cause damage.",
+      "we found six (words indistinct).",
+      "as for the rpg's, we found only one (words indistinct) behind the antel (national administration for telecommunications) office (words indistinct).",
+      "we found six holes from m-79 shells, but they did not cause great damage.",
+      "one of our civilian employees came out slightly wounded from the (word indistinct).",
+      "(reporter) colonel, our country will have a new president in a few days.",
+      "the fmln has called a new transportation stoppage beginning on 31 may and has now attacked the 1st brigade.",
+      "based on this evidence, do you feel the fmln will intensify its military actions in san salvador?",
+      "(military officer) of course, we are expecting this.",
+      "channel 12 has already reported that a transportation stoppage will begin on 31 may.",
+      "therefore, we believe vigilance must be increased.",
+      "we expected this kind of attack.",
+      "we have always said we are prepared to repel any terrorist attack, and this was a typical terrorist attack.",
+      "from a military standpoint, i do not think the attack was very effective.",
+      "the guerrillas used mortars but mostly hurt civilians.",
+      "(end recording)"
+    ],
+    "event": {
+      "stage of completion": "threatened",
+      "date": [
+        "31 may"
+      ],
+      "location": [],
+      "individual perpetrators": [],
+      "organizations responsible": [
+        "fmln"
+      ],
+      "physical targets": [
+        "transportation"
+      ],
+      "type": "forced work stoppage",
+      "victims": [],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "on an unspecified date, the fmln guerrillas attacked the 1st infantry brigade garrison and the national police station in san salvador's sacamil neighborhood, resulting in the death of at least six guerrillas, and injuries to three policemen, a soldier, and four civilians.",
+        "the attack took place ahead of a forced work stoppage threatened by the fmln, indicating a potential escalation of their military actions in san salvador, targeting transportation."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "the fmln has called a new transportation stoppage beginning on 31 may."
+      ],
+      "score": 1,
+      "model": "pegasus"
+    },
+    "summary 3": {
+      "text": [
+        "the fmln has called for a transportation stoppage beginning on 31 may."
+      ],
+      "score": 2,
+      "model": "bart"
+    },
+    "summary 4": {
+      "text": [
+        "the fmln guerrillas in san salvador have threatened a forced work stoppage targeting transportation beginning on 31 may, as reported in the document.",
+        "the stoppage has not yet begun.",
+        "this planned action follows a recent attack by the same group."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 5": {
+      "text": [
+        "the fmln has threatened a transportation stoppage in san salvador to begin on 31 may."
+      ],
+      "score": 4,
+      "model": "ref"
+    },
+    "summary 6": {
+      "text": [
+        "the fmln has announced a transportation stoppage will begin on 31 may."
+      ],
+      "score": 2,
+      "model": "t5"
+    }
+  },
+  "TST3-MUC4-0022.1": {
+    "document": [
+      "the police have reported in huancayo, located 315 km east of lima, that alleged terrorists today killed dolores hinostroza, the mayor of mulqui district.",
+      "hinostroza, who was at home, was shot five times.",
+      "hinostroza's children told police that four hooded individuals broke into the house and shot their mother after having insulted her.",
+      "the killers also shouted slogans supporting the armed struggle.",
+      "dolores hinostroza, 48 years old, did not belong to any political party.",
+      "she is the second woman mayor killed this week by alleged commando groups of the maoist shining path."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "this week"
+      ],
+      "location": [
+        "huancayo",
+        "mulqui"
+      ],
+      "individual perpetrators": [
+        "four hooded individuals",
+        "alleged commando groups"
+      ],
+      "organizations responsible": [
+        "shining path"
+      ],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "dolores hinostroza"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "in huancayo, 315 km east of lima, dolores hinostroza, the mayor of mulqui district, was killed today in an attack carried out by four hooded individuals, allegedly from commando groups of the maoist shining path.",
+        "the attack was successful, resulting in hinostroza being shot five times in her own home.",
+        "this incident marks the second woman mayor killed by such groups this week."
+      ],
+      "score": 4,
+      "model": "gpt4"
+    },
+    "summary 2": {
+      "text": [
+        "the mayor of huancayo, dolores hinostroza, was killed by alleged terrorists today in her home in huancayo, mulqui district.",
+        "four hooded individuals broke into her home and shot her five times after having insulted her.",
+        "the killers also shouted slogans supporting the armed struggle.",
+        "she is the second woman mayor killed this week by alleged commando groups of the maoist shining path."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 3": {
+      "text": [
+        "in huancayo, located 315 km east of lima, alleged terrorists killed dolores hinostroza, the mayor of mulqui district.",
+        "four hooded individuals shot hinostroza five times at her home, shouting slogans supporting the armed struggle.",
+        "she is the second woman mayor killed this week by alleged commando groups of the maoist shining path."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 4": {
+      "text": [
+        "on an unspecified date in huancayo, peru, four hooded individuals, allegedly belonging to the maoist shining path, successfully carried out an attack by breaking into the home of dolores hinostroza, the 48-year-old mayor of mulqui district, shooting her five times.",
+        "this marks the second incident this week where a female mayor has been killed by alleged commando groups of the shining path."
+      ],
+      "score": 4,
+      "model": "chatgpt"
+    },
+    "summary 5": {
+      "text": [
+        "today in huancayo, alleged terrorists of the maoist shining path killed dolores hinostroza, the mayor of mulqui district.",
+        "four hooded individuals broke into her home and shot her five times.",
+        "the killers shouted slogans supporting the armed struggle."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "in huancayo, the mayor of mulqui district, dolores hinostroza, was shot and killed by four hooded individuals who shouted slogans supporting the armed struggle.",
+        "the attack was carried out by alleged commando groups affiliated with the maoist organization, shining path.",
+        "hinostroza is the second female mayor killed this week in similar attacks."
+      ],
+      "score": 4,
+      "model": "ref"
+    }
+  },
+  "TST3-MUC4-0027.1": {
+    "document": [
+      "danilo barillas, former guatemalan ambassador to spain and leader of the ruling christian democratic party (pdc), was killed today by unidentified individuals in this capital, the police reported.",
+      "according to official reports, barillas was heading downtown from his home in southern guatemala city when he was intercepted by a group of unidentified individuals, who shot him down with machinegun fire.",
+      "the police said that so far the identities of the attackers are unknown.",
+      "this is the first pdc leader killed since president vinicio cerezo assumed power in january 1986."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "today"
+      ],
+      "location": [
+        "guatemala city"
+      ],
+      "individual perpetrators": [
+        "group of unidentified individuals"
+      ],
+      "organizations responsible": [],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "danilo barillas"
+      ],
+      "weapons": [
+        "machinegun"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "former guatemalan ambassador to spain and leader of the ruling christian democratic party, danilo barillas, was killed in the capital by a group of unidentified individuals who shot him down with a machine gun while he was heading downtown from his home in southern guatemala city.",
+        "this attack marks the first killing of a pdc leader since president vinicio cerezo took office in january 1986."
+      ],
+      "score": 4,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "danilo barillas, former guatemalan ambassador to spain and leader of the ruling christian democratic party (pdc), was killed today by a group of unidentified individuals in guatemala city.",
+        "he was shot down with machinegun fire, and the identities of the attackers are unknown."
+      ],
+      "score": 4,
+      "model": "t5"
+    },
+    "summary 3": {
+      "text": [
+        "danilo barillas, former guatemalan ambassador to spain and leader of the ruling christian democratic party (pdc), was killed today by a group of unidentified individuals who shot him down with machinegun fire.",
+        "the attack took place while barillas was heading downtown from his home in southern guatemala city.",
+        "the identities of the attackers are unknown."
+      ],
+      "score": 4,
+      "model": "bart"
+    },
+    "summary 4": {
+      "text": [
+        "danilo barillas, the former guatemalan ambassador to spain and leader of the ruling christian democratic party, was killed in an attack by a group of unidentified individuals.",
+        "the attack, which was carried out with a machine gun, occurred while barillas was traveling downtown from his home in southern guatemala city.",
+        "the assailants remain unidentified."
+      ],
+      "score": 4,
+      "model": "gpt4"
+    },
+    "summary 5": {
+      "text": [
+        "former guatemalan ambassador to spain and leader of the ruling christian democratic party (pdc), danilo barillas, was killed today by unidentified individuals in guatemala city.",
+        "barillas was shot down with machinegun fire while traveling downtown from his home in southern guatemala city.",
+        "the identities of the attackers are unknown."
+      ],
+      "score": 5,
+      "model": "pegasus"
+    },
+    "summary 6": {
+      "text": [
+        "former guatemalan ambassador to spain and leader of the ruling christian democratic party (pdc), danilo barillas, was killed today in guatemala city by a group of unidentified individuals who shot him with a machinegun while he was on his way downtown from his home."
+      ],
+      "score": 5,
+      "model": "ref"
+    }
+  },
+  "TST3-MUC4-0038.2": {
+    "document": [
+      "das (administrative department of security) director miguel maza marquez confirmed today that the government and the judicial authorities had known for over 1 year that there were mercenaries in our country, but police authorities apparently prevented an investigation that had been ordered, as a matter of fact, by a female judge.",
+      "our reporter hernando corrales has the details: (begin recording) (corrales) if the authorities in charge of an operation near puerto boyaca on 18 july last year had not sabotaged it, the foreign instructors at the service of the medellin cartel would now be jail.",
+      "on that date, marta lucia gonzalez, second judge of public order, wrote a file note saying that the judicial inspection was unjustly torpedoed with the argument that nothing had been found and that this argument was senseless and illogical since absolutely no one other than the undersigned judge could decide if he or she had anything to inspect, or if he or she should or should not conduct the judicial proceeding.",
+      "the document, which is contained in the dossier on the massacre in la hondura and la negra, uraba region, says that she was left 2 days inside a plane at the airport of the texas petroleum company in puerto boyaca and that the police authorities accompanying her failed to explain to her why they had not taken any action.",
+      "(unidentified speaker) in fact, she and several das inspectors encountered some obstacles.",
+      "the attorney general's office was informed of these obstacles in order for it to make an investigation.",
+      "i think that when she and the das personnel were preparing to go to puerto boyaca it was already known that these people would be present there for these proceedings and this was quite worrisome.",
+      "(corrales) as is known, judge gonzalez had to leave colombia because her life was threatened, and her father, former boyaca governor alvaro gonzalez santana, was subsequently murdered.",
+      "moreover, gen maza marquez said further that the fact that a payment is being offered for the capture of pablo escobar and gonzalo rodriguez gacha does not mean that other persons accused of being capos of the mafia are not being sought too.",
+      "(maza) we are taking action the length and breadth of the country.",
+      "we are not showing any special considerations because we intend to act indiscriminately.",
+      "what we want is to fight a scourge that has greatly harmed all colombians.",
+      "(corrales) the das director said that if anyone being held in connection with the investigation of the killing of luis carlos galan is released, that does not mean that the investigations are not proceeding well.",
+      "(end recording)"
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [],
+      "individual perpetrators": [],
+      "organizations responsible": [],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "alvaro gonzalez santana"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "on an unknown date, authorities in colombia prevented an investigation of foreign mercenaries working for the medellin cartel, despite being ordered to do so by a female judge, resulting in the mercenaries remaining free.",
+        "as a result, the judge, marta lucia gonzalez, was threatened and had to leave the country, and her father, alvaro gonzalez santana, was subsequently murdered."
+      ],
+      "score": 4,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "former boyaca governor alvaro gonzalez santana, father of judge marta lucia gonzalez, was murdered in colombia."
+      ],
+      "score": 5,
+      "model": "ref"
+    },
+    "summary 3": {
+      "text": [
+        "an attack was successfully carried out, resulting in the murder of alvaro gonzalez santana, former governor of boyaca, in colombia.",
+        "this event occurred after his daughter, judge marta lucia gonzalez, had to leave the country due to threats to her life, which were linked to her judicial investigations.",
+        "the government and judicial authorities were aware of the threats for over a year prior to the attack."
+      ],
+      "score": 2,
+      "model": "gpt4"
+    },
+    "summary 4": {
+      "text": [
+        "das director miguel maza marquez confirms that an investigation into mercenaries in colombia had been ordered by a female judge, but was prevented by police.",
+        "the investigation resulted in the death of alvaro gonzalez santana, the father of former boyaca governor."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 5": {
+      "text": [
+        "former boyaca governor alvaro gonzalez santana was subsequently murdered."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "das (administrative department of security) director miguel maza marquez confirmed that the government and the judicial authorities had known for over a year about mercenaries in colombia, but police authorities apparently prevented an investigation ordered by a female judge.",
+        "the judge, marta lucia gonzalez, had ordered the investigation after her father, former boyaca governor alvaro gonzalez santana, was subsequently murdered."
+      ],
+      "score": 2,
+      "model": "pegasus"
+    }
+  },
+  "TST3-MUC4-0041.1": {
+    "document": [
+      "i have been in touch with general octavio vargas silva, national police operational commander and inspector.",
+      "gen vargas has said that the two people who were killed in the attack that took place at suba municipality last night have not yet been identified.",
+      "(vargas) two people were killed and five others were wounded as a result of the attack.",
+      "the two people who were killed are yet to be identified.",
+      "those wounded include three employees of the gas station where the car bomb went off and two people who were walking by the gas station at the moment of the explosion.",
+      "preliminary reports have estimated that the explosion caused 70 million pesos in losses.",
+      "(carrillo) general, approximately how many kilograms of explosives were in the car bomb?",
+      "(vargas) apparently it contained 60 kg of dynamite.",
+      "the dynamite was placed inside an old station wagon.",
+      "something must have happened to the people who were inside the vehicle at the time of the explosion -- the two people who were killed.",
+      "apparently the car bomb went off by accident.",
+      "it was not supposed to have gone off at that gas station.",
+      "(carrillo) have the people who were killed been identified?",
+      "(vargas) no, not yet.",
+      "we are trying to identify them now.",
+      "(carrillo) are there special security measures to counter this wave of terrorism?",
+      "(vargas) yes, of course.",
+      "we are carrying out a series of joint actions with the bogota police department and administrative department of security personnel to neutralize terrorist actions.",
+      "we are carrying out those actions in areas we consider critical or vulnerable and in other areas where we are counteracting and neutralizing terrorist actions, as i told you.",
+      "(carrillo) are there secret agents throughout the entire city?",
+      "(vargas) yes, we have uniformed and civilian personnel guarding the city right now.",
+      "we also have the support of the bogota police department, of dijin (directorate of judicial police and investigations), and of cijin (expansion unknown).",
+      "they are cooperating with us.",
+      "they are guarding areas we consider critical or places that could be targets of terrorist attacks.",
+      "(carrillo) what other measures have you adopted along with the 13th infantry brigade and the bogota mayor?",
+      "(vargas) we have implemented a number of measures, such as increasing personnel on the streets and human and material resources.",
+      "in addition, we have established chekckpoints in areas we consider critical and are carrying out a number of operational activities that will help us locate these criminals."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "last night"
+      ],
+      "location": [
+        "suba"
+      ],
+      "individual perpetrators": [
+        "two people"
+      ],
+      "organizations responsible": [],
+      "physical targets": [
+        "gas station"
+      ],
+      "type": "bombing",
+      "victims": [
+        "employees of the gas station where the car bomb went off",
+        "people who were walking by the gas station at the moment of the explosion",
+        "people"
+      ],
+      "weapons": [
+        "car bomb",
+        "60 kg of dynamite"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "on an unspecified date, a bombing took place at a gas station in suba municipality, resulting in the deaths of two unidentified individuals and injuries to five others, including gas station employees and pedestrians.",
+        "the car bomb, which contained 60 kg of dynamite, was said to have exploded accidentally.",
+        "security measures, including increased personnel and checkpoints, have been implemented by the authorities to counteract and neutralize terrorist actions in critical areas."
+      ],
+      "score": 4,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "general octavio vargas silva, national police operational commander and inspector, said that the two people who were killed in a bombing that took place at a gas station in suba municipality last night have not yet been identified.",
+        "the car bomb, containing 60 kg of dynamite, was placed inside an old station wagon and exploded prematurely.",
+        "two people were killed and five others were wounded in the attack.",
+        "those wounded include three employees of the gas station where the bomb went off and two people walking by the gas stations at the moment of the explosion.",
+        "preliminary reports have estimated that the explosion caused 70 million pesos in losses."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 3": {
+      "text": [
+        "two people carried out a bombing using a car bomb containing 60 kg of dynamite at a gas station in suba municipality last night.",
+        "two unidentified individuals were killed and five others were injured, including three employees of the gas station where the car bomb went off and two people who were walking by the gas station at the moment of the explosion.",
+        "the attack caused an estimated 70 million pesos in losses."
+      ],
+      "score": 4,
+      "model": "ref"
+    },
+    "summary 4": {
+      "text": [
+        "a car bombing executed by two unidentified individuals occurred at a gas station in the suba municipality, employing a car bomb filled with 60 kg of dynamite.",
+        "the attack resulted in the death of two people and injury of five others, including three gas station employees and two passersby.",
+        "the case is currently under investigation, with no identities confirmed for the deceased."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 5": {
+      "text": [
+        "two people were killed and five others were wounded in a bombing that took place at a gas station in suba municipality last night.",
+        "the wounded include three employees of the gas station where the car bomb went off and two people who were walking by the gas station at the moment of the explosion.",
+        "preliminary reports have estimated that the explosion caused 70 million pesos in losses."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 6": {
+      "text": [
+        "last night, a car bomb containing 60 kg of dynamite exploded at a gas station in suba municipality, killing two people and wounding five other people, including three employees of the gas station and two people who were walking by the gas station at the moment of the explosion."
+      ],
+      "score": 5,
+      "model": "pegasus"
+    }
+  },
+  "TST3-MUC4-0048.3": {
+    "document": [
+      "guatemalan archbishop prospero penados del barrio today reported the kidnapping of a nun, diana mack ortiz, 20 years old, born in the state of colorado in the united states of america.",
+      "the archbishop also reported that another u.s. nun, patricia denny, left guatemala 17 days ago because of continuous death threats over the telephone and in writing.",
+      "penados said diana mack ortiz was kidnapped on 2 november in antigua guatemala, 45 km south of guatemala city, when she was attending a seminar along with other nuns.",
+      "the archbishop explained the nun had been receiving death threats.",
+      "she had been urged to leave guatemala, but she decided to continue working in this country.",
+      "the kidnapped nun, who had been in guatemala for a year, was teaching at the san miguel acatan elementary school in huehuetenango department in northeast guatemala.",
+      "she belongs to the order of the ursilina, penados reported.",
+      "patricia denny, 54, left guatemala after unidentified men warned her that if she wished to continue living she had to leave the country.",
+      "denny had arrived in guatemala in 1984, belonged to the sisters of mary knoll, and was working at a parish in mixco municipality in southern guatemala city.",
+      "the archbishop said all this is the \"beginning of a campaign to intimidate the catholic church.\"",
+      "he did not mention which groups are perpetrating these intimidation actions.",
+      "however, penados said he is going to talk to guatemalan president vinicio cerezo today to report the incidents with the u.s. nuns.",
+      "penados stated that this kind of action \"harmed catholicism very much in past years,\" when repression severely hit this sector.",
+      "he pointed out that this kind of incident had not happened since president cerezo took over power in guatemala on 14 january 1986.",
+      "the archbishop demanded that mack ortiz' kidnappers respect her life and physical integrity."
+    ],
+    "event": {
+      "stage of completion": "threatened",
+      "date": [],
+      "location": [
+        "huehuetenango",
+        "guatemala"
+      ],
+      "individual perpetrators": [],
+      "organizations responsible": [],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "diana mack ortiz"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "on 2nd november, in antigua guatemala, a nun named diana mack ortiz was kidnapped after receiving continuous death threats.",
+        "the 20-year-old colorado-born victim was attending a seminar at the time of the attack.",
+        "the archbishop prospero penados del barrio has demanded that the captors respect her life and physical integrity."
+      ],
+      "score": 4,
+      "model": "gpt4"
+    },
+    "summary 2": {
+      "text": [
+        "on november 2nd in antigua, guatemala, 20-year-old american nun diana mack ortiz was kidnapped while attending a seminar, following continuous death threats she had been receiving for her work in the country.",
+        "archbishop prospero penados del barrio reported the incident, expressing concern about the intimidation campaign against the catholic church and demanding that the kidnappers respect ortiz's life and physical integrity."
+      ],
+      "score": 5,
+      "model": "chatgpt"
+    },
+    "summary 3": {
+      "text": [
+        "guatemalan archbishop prospero penados del barrio reports the kidnapping of a nun, diana mack ortiz, 20 years old, who was teaching at the san miguel acatan elementary school in huehuetenango department in northeast guatemala.",
+        "she had been receiving death threats, and had been urged to leave the country, but she decided to continue working in this country."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 4": {
+      "text": [
+        "guatemalan archbishop prospero penados del barrio reported the kidnapping of diana mack ortiz, a 20-year-old nun from huehuetenango department, who had been receiving death threats.",
+        "penados also reported that another u.s.",
+        "nun, patricia denny, left guatemala 17 days ago due to the same threat."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 5": {
+      "text": [
+        "prior to being kidnapped, 20-year-old american nun diana mack ortiz, who had been teaching at a school in huehuetenango in northeast guatemala, had been receiving death threats."
+      ],
+      "score": 1,
+      "model": "ref"
+    },
+    "summary 6": {
+      "text": [
+        "guatemalan archbishop prospero penados del barrio reported the kidnapping of nun diana mack ortiz, who had been teaching at the san miguel acatan elementary school in huehuetenango department, guatemala.",
+        "the nun had been receiving death threats, leading to her decision to remain in the country and continue her work."
+      ],
+      "score": 3,
+      "model": "bart"
+    }
+  },
+  "TST3-MUC4-0055.2": {
+    "document": [
+      "the salvadoran guerrillas assured today they have \"consolidated\" four of the most densely populated neighborhoods in northern san salvador where some 300,000 persons live.",
+      "commander amilcar, one of the rebel chiefs who has occupied the zacamil neighborhood, told acan - efe that he and his men came to san salvador \"prepared, and with sufficient ammunition to remain for several days.\"",
+      "in a general assesement of the guerrilla offensive, the young commander said that the army \"cannot enter\" the \"area under rebel control,\" but it is attacking the rebels from the national police headquarters and using helicopter gunships. \"",
+      "however, the people have the trump card (for the success of the offensive),\" he added.",
+      "amilcar, who is 26-years-ago and looks like a student, was walking down the hallways of one of the cramped five-story apartment buildings in zacamil while explaining that the goal of the rebel offensive is \"to seek options for building peace in el salvador.\"",
+      "he added that the guerrillas seek \"to disrupt the dialogue conditions, and go to the conversations with a political and military advantage so that the government will agree with us on what the people want: democracy, a people's economic policy, and a purge in the armed forces, among other things.\"",
+      "the guerrillas and the government of el salvador have held two meetings in recent months, the first one in mexico and the second one in costa rica.",
+      "a third meeting was to be held shortly in venezuela, but the fmln (farabundo marti national liberation front) announced that it will not attend.",
+      "the fmln launched the most important military offensive since 1981 on 11 november, attacking 50 military positions, 20 of them in san salvador.",
+      "in the first 24 hours, the offensive has caused nearly 300 casualties (127 dead and 155 wounded) according to the army, and over 400 casualties according to the guerrillas.",
+      "the offensive has been named \"out with the fascists!",
+      "febe elizabeth lives!\"",
+      "in homage to a trade union leader killed 13 days ago along with nine other workers in a dynamite explosion in the capital city attributed to the ultrarightist death squads.",
+      "armed with an automatic ak-47 rifle, amilcar said that the fmln \"has consolidated the zacamil, cuscatancingo, mejicanos, and panama neighborhoods, and we have besieged the 1st infantry brigade.\"",
+      "all the places he mentioned are in northern san salvador, where the bloodiest clashes between the guerrillas and the government troops have taken place.",
+      "at nightfall on 12 november and prior to the curfew that begins at 2000 (0200 gmt), the residents of zacamil were outside their buildings carrying candles as there is no electricity.",
+      "amilcar assured that the guerrillas have inflicted at least 18 casualties on the armed forces in that area and have seized about 20 rifles and 1 m-60 machinegun. \"",
+      "this offensive is a military and political achievement.",
+      "as a result of the closing of the comalapa international airport, the main airport of the country, we have succeeded in letting the world that we are at war and are an emerging power,\" the rebel commander said.",
+      "comalapa airport, located 50 km south of san salvador, was closed \"for security reasons.\"",
+      "acording to the fmln clandestine station, radio venceremos, the guerrilla fighters destroyed three military helicopters on the ground and caused some damage on the airports's main landing strip.",
+      "referring to the government's decision to impose a curfew and a nationwide state of siege effective tonight, commander amilcar said: \"we had already taken this into consideration when we launched the offensive.\"",
+      "the government \"cannot act indiscriminately against the civilian population,\" amilcar said; adding that \"the citizens' rights were suspended to bomb the places taken over by our forces.\"",
+      "the people of zacamil and other neighborhoods located north of the capital have lived in terror since saturday, 11 november, when they were trapped in the crossfire between the rebels and the military, subjected to the air raids and the threat that living with the guerrilla members represents to them.",
+      "at least two civilians have died in zacamil and five more have been wounded, including two children, as a result of the armed clashes."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "11 november"
+      ],
+      "location": [
+        "el salvador",
+        "comalapa airport"
+      ],
+      "individual perpetrators": [
+        "guerrilla fighters"
+      ],
+      "organizations responsible": [
+        "fmln"
+      ],
+      "physical targets": [
+        "military helicopters",
+        "airports's main landing strip"
+      ],
+      "type": "attack",
+      "victims": [],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "on 11 november, the farabundo marti national liberation front (fmln) launched a military offensive in el salvador, targeting 50 military positions, 20 of them in san salvador.",
+        "the offensive has resulted in nearly 300 casualties (127 dead and 155 wounded) and over 400 casualties according to the guerrillas."
+      ],
+      "score": 4,
+      "model": "pegasus"
+    },
+    "summary 2": {
+      "text": [
+        "on november 11th, the fmln guerrilla fighters successfully launched a military offensive in san salvador, targeting 50 military positions, including the zacamil, cuscatancingo, mejicanos, and panama neighborhoods in the north.",
+        "the offensive resulted in nearly 300 casualties, with the guerrillas claiming to have inflicted at least 18 casualties on the armed forces and seizing weapons, including military helicopters and causing damage to the comalapa international airport's main landing strip."
+      ],
+      "score": 4,
+      "model": "chatgpt"
+    },
+    "summary 3": {
+      "text": [
+        "on 11 november, in the early hours of a military offensive, guerrillas of the fmln (farabundo marti national liberation front) caused damage on the airports's main landing strip in comalapa.",
+        "the attack resulted in the deaths of nearly 300 people, including two children, and the wounding of over 400 others."
+      ],
+      "score": 5,
+      "model": "bart"
+    },
+    "summary 4": {
+      "text": [
+        "on 11 november, guerrilla fighters from the farabundo marti national liberation front (fmln) launched the most important military offensive since 1981 in el salvador, attacking 50 military positions, 20 of them in san salvador.",
+        "the guerrillas destroyed three military helicopters on the ground and caused some damage on the airports's main landing strip."
+      ],
+      "score": 2,
+      "model": "t5"
+    },
+    "summary 5": {
+      "text": [
+        "on 11 november, as part of a larger offensive, fmln guerrilla fighters destroyed three military helicopters and caused damage to the comalapa airports's main landing strip."
+      ],
+      "score": 5,
+      "model": "ref"
+    },
+    "summary 6": {
+      "text": [
+        "the fmln guerrilla fighters successfully launched an attack targeting military helicopters and the main landing strip at the airport.",
+        "this attack was accomplished and led by the salvadoran guerrilla force, fmln.",
+        "the events took place in san salvador, causing significant damage to military infrastructure."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    }
+  },
+  "TST3-MUC4-0065.1": {
+    "document": [
+      "approximately 1,000 people demonstrated today at the burgos main square (central) to ask the spanish government to mediate in the salvadoran conflict, and in barcelona (northeastern), a demonstration to express support for the salvadoran people has been scheduled for 22 november.",
+      "the demonstrators, convoked by the solidarity with latin america committee, verbally attacked salvadoran president alfredo cristiani and have asked the spanish government to offer itself as a mediator to promote an end the armed conflict.",
+      "some of the people who attended the demonstration, which was held without incidents, carried placarts denouncing the killing of six jesuit priests -- five of whom were spanish citizens -- and two salvadoran women at the central american university.",
+      "meanwhile, civic organizations, student associations, labor unions, and political parties in cataluna have scheduled a demonstration in support of the salvadoran people to be held in barcelona on 22 november.",
+      "these organizations, which have formed an emergency committee, have opened an account at the \"la caixa\" savings bank where economic donations are being accepted to help the salvadoran people.",
+      "in a manifesto released, the committee demands an end to the bombing of civilians, the immediate evacuation of the wounded, and an end to attacks against the union headquarters and leaders.",
+      "likewise, the committee has demanded an end to u.s. intervention in el salvador and that the guatemalan and honduran armies refrain from participating in the conflict. \"",
+      "we ask the spanish government institutions and the eec to pressure the salvadoran government to begin a real negotiation that will an end to the conflict and its causes, the manifesto states."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "central american university",
+        "el salvador"
+      ],
+      "individual perpetrators": [],
+      "organizations responsible": [],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "jesuit priests",
+        "jesuit priests",
+        "women"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "six jesuit priests, including five spanish citizens, and two salvadoran women have been killed at the central american university in el salvador."
+      ],
+      "score": 4,
+      "model": "bart"
+    },
+    "summary 2": {
+      "text": [
+        "approximately 1,000 people demonstrated at the burgos main square in spain to ask the government to mediate in the salvadoran conflict.",
+        "they verbally attacked salvadoran president alfredo cristiani and denounced the killing of six jesuit priests and two salvadoran women at the central american university in el salvador."
+      ],
+      "score": 2,
+      "model": "ref"
+    },
+    "summary 3": {
+      "text": [
+        "around 1,000 people protested at the burgos main square, criticizing salvadoran president alfredo cristiani and denouncing the killing of six jesuit priests and two salvadoran women.",
+        "the protest, held peacefully, was organized by the solidarity with latin america committee who asked the spanish government to mediate the salvadoran conflict.",
+        "another demonstration in support of the salvadoran people is slated for 22 november in barcelona."
+      ],
+      "score": 1,
+      "model": "gpt4"
+    },
+    "summary 4": {
+      "text": [
+        "six jesuit priests, including five spanish citizens, and two salvadoran women have been killed at the central american university in el salvador."
+      ],
+      "score": 4,
+      "model": "pegasus"
+    },
+    "summary 5": {
+      "text": [
+        "on an unspecified date, approximately 1,000 people demonstrated in the main square of burgos, spain, demanding that the spanish government mediate in the salvadoran conflict and denouncing the killing of six jesuit priests and two salvadoran women.",
+        "in barcelona, a demonstration in support of the salvadoran people has been scheduled for november 22nd, with various civic organizations and political parties calling for an end to violence against civilians and urging the spanish government and the european economic community to pressure the salvadoran government to negotiate and halt the conflict."
+      ],
+      "score": 2,
+      "model": "chatgpt"
+    },
+    "summary 6": {
+      "text": [
+        "six jesuit priests, five of whom were spanish citizens, and two salvadoran women have been killed at the central american university in el salvador."
+      ],
+      "score": 5,
+      "model": "t5"
+    }
+  },
+  "TST3-MUC4-0069.2": {
+    "document": [
+      "the picture published today by the newspaper granma in its third edition speaks for itself.",
+      "in fact, as the newspaper suggests, the yankee hand is today in el salvador as it was yesterday in vietnam.",
+      "the wounded mother who tries to comfort her daughter, a victim of the bombings, is not an isolated picture.",
+      "it is a symbol of the crimes that are being committed against the civilian population in that country.",
+      "the united states is not innocent of these crimes because u.s. pilots are participating in the massacre.",
+      "in the meantime, what is the human rights champion doing?",
+      "in fact, he is doing nothing that could not be predicted.",
+      "president bush gets on the phone and calls his salvadoran crony alfredo cristini to assure him that everything is all right, that he can go on, that the u.s. position is favorable to his regime.",
+      "the human rights champion asks no questions about the recent brutal killings of union leaders by the army.",
+      "bush asks no questions about the massacre of spanish priests.",
+      "the president only praises the army, the air force, the police and paramilitary efforts to stop the guerrilla offensive.",
+      "bush and cristiani could not fail to mention the trite slogan of the cuban and nicaraguan aid to the salvadoran guerrillas.",
+      "nor did bush fail to express the american people's solidarity.",
+      "but, solidarity with whom?",
+      "all we have heard about up to now are the protests provoked in the united states by the u.s. military aid to the salvadoran regime.",
+      "the only realities are the demonstrations staged from los angeles to new york to repudiate the u.s. aid.",
+      "the only fact is that the human rights champion is being publicly questioned about this aid.",
+      "the only picture that has been disseminated throughout the world is that of a woman who interrupts bush's speech to shout to him: why are we sending money to el salvador?",
+      "why are we killing priests in el salvador?",
+      "it is not possible to overlook the u.s. government's responsibility in the current salvadoran situation.",
+      "the international community must be aware of this reality and must act accordingly."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "el salvador"
+      ],
+      "individual perpetrators": [],
+      "organizations responsible": [
+        "army"
+      ],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "union leaders"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "the document reveals an attack carried out by the army, as evidenced by brutal killings of union leaders.",
+        "the incident has already occurred, with the army carrying out its violent actions against these specific targets.",
+        "the u.s.",
+        "has been implicated in these crimes, with president bush failing to question these atrocities."
+      ],
+      "score": 2,
+      "model": "gpt4"
+    },
+    "summary 2": {
+      "text": [
+        "the army in el salvador has recently been responsible for the brutal killings of union leaders."
+      ],
+      "score": 4,
+      "model": "pegasus"
+    },
+    "summary 3": {
+      "text": [
+        "union leaders have been brutally killed in el salvador by the u.s.",
+        "army."
+      ],
+      "score": 4,
+      "model": "ref"
+    },
+    "summary 4": {
+      "text": [
+        "the army has recently killed union leaders in el salvador."
+      ],
+      "score": 5,
+      "model": "bart"
+    },
+    "summary 5": {
+      "text": [
+        "the army has brutally killed union leaders in el salvador."
+      ],
+      "score": 5,
+      "model": "t5"
+    },
+    "summary 6": {
+      "text": [
+        "the document discusses an attack in el salvador, where the army is responsible for the killings of union leaders.",
+        "the event is described as accomplished and raises questions about the u.s.",
+        "government's role and responsibility in the situation."
+      ],
+      "score": 2,
+      "model": "chatgpt"
+    }
+  },
+  "TST3-MUC4-0074.1": {
+    "document": [
+      "the treasury police have informed this network that terrorist (words indistinct) alberto chica fernandez, a leader in the (name indistinct) labor union, confessed that the fmln (farabundo marti national liberation front) terrorist leaders may initiate summary actions with a view to purging the leaders of leftist groups because of the failure of the so-called \"final offensive to the end.\"",
+      "chica said that the terrorist leadership has violently (word indistinct) humberto centeno, marco tulio lima, and an individual identified only as julio cesar, from the unts (national union of salvadoran workers), as well as other leftist leaders, for providing false information regarding the conditions for a popular insurrection.",
+      "according to chica, the fmln leaders in managua decided to launch the offensive, trusting the unts leaders' reports that conditions were right for an insurrection because febe elizabeth velazquez' death in the dynamite attack against fenastras (salvadoran workers national union federation) had ignited the people's spirits.",
+      "the prisoner said that the fmln may carry out a summary trial in the style of communist parties against those responsible for the failure.",
+      "now, he said, to save themselves from the responsibility of having deceived the terrorist criminals who allowed themselves to be led by lies, the unts leaders are expected to call news conferences to announce that their struggle continues.",
+      "meanwhile, a report from zacatecoluca, la paz department, indicates that fmln terrorist criminals, using sam-7 missiles, attacked a salvadoran air force 0-2 airplane which was in the area directing support near piedra grande abajo in the jurisdiction of zacatecoluca.",
+      "no damages or casualties were reported.",
+      "another fmln missile was fired from las piedras hill, in the same area, against another salvadoran air force 0-2 airplane, but the airplane was not damaged.",
+      "the source says the missile exploded in the air over zacatecoluca.",
+      "the air force, to which experienced pilots lend their professional services, is admired by the people, who are grateful to their armed forces."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [],
+      "individual perpetrators": [],
+      "organizations responsible": [],
+      "physical targets": [
+        "fenastras [salvadoran workers national union federation]"
+      ],
+      "type": "bombing",
+      "victims": [
+        "fenastras",
+        "febe elizabeth velazquez"
+      ],
+      "weapons": [
+        "dynamite"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "fenastras (salvadoran workers national union federation) leader febe elizabeth velazquez was killed in a dynamite attack against fenastras."
+      ],
+      "score": 4,
+      "model": "bart"
+    },
+    "summary 2": {
+      "text": [
+        "on an unspecified date, terrorist leaders of the fmln launched a bombing attack against the salvadoran workers national union federation (fenastras), resulting in the death of febe elizabeth velazquez.",
+        "the attack was carried out using dynamite and was accomplished successfully, with no reported damages or casualties to the airplanes involved in the counterattack."
+      ],
+      "score": 4,
+      "model": "chatgpt"
+    },
+    "summary 3": {
+      "text": [
+        "a bombing event led by an unidentified terrorist group was successfully carried out using dynamite against fenastras (salvadoran workers national union federation).",
+        "the attack resulted in casualties, notably febe elizabeth velazquez.",
+        "the physical target of the assault was the fenastras premises."
+      ],
+      "score": 5,
+      "model": "gpt4"
+    },
+    "summary 4": {
+      "text": [
+        "febe elizabeth velazquez, a member of the fenastras (salvadoran workers national union federation), was killed in a dynamite attack."
+      ],
+      "score": 5,
+      "model": "pegasus"
+    },
+    "summary 5": {
+      "text": [
+        "febe elizabeth velazquez's death in the dynamite attack against fenastras (salvadoran workers national union federation) has ignited the people's spirits, according to alberto chica fernandez, a leader in the (name indistinct) labor union."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 6": {
+      "text": [
+        "a dynamite explosion that targeted the fenastras (salvadoran workers national union federation) resulted in the death of febe elizabeth velazquez."
+      ],
+      "score": 4,
+      "model": "ref"
+    }
+  },
+  "TST3-MUC4-0080.2": {
+    "document": [
+      "official sources today reported that at least eight people, including soldiers, rebels, and civilians, were killed during clashes between the army and guerrillas over the past weekend in various points of the country.",
+      "military spokesmen for the 6th infantry brigade, headquartered in the eastern usulutan department, told acan-efe that two rebels were killed and one wounded during a clash with government troops in san agustin.",
+      "meanwhile, the armed forces press committee (coprefa) reported that the bodies of two guerrillas, who were presumably killed during clashes with the army, were found by soldiers in the outskirts of santa tecla, in the central la libertad department.",
+      "coprefa reported that two soldiers were killed during a clash with members of the farabundo marti national liberation front (fmln) in comasagua, about 28 km to the southwest of (san) salvador, where a rebel attack on a coffee processing plant was successfully repelled.",
+      "it reported that a civilian was killed in the crossfire and that a soldier was also killed during clashes in zaragoza, south of san salvador, where two guerrillas were wounded.",
+      "the military report stated that 10 rebels were wounded in tecoluca, san vicente department, about 60 km east of the capital, during an armed clash between insurgents and the 5th (infantry) brigade, headquartered in that department.",
+      "three other soldiers were wounded during an fmln ambush in guazapa, north of (san) salvador, one of the guerrillas' main bastions.",
+      "the salvadoran (air) force this morning bombed rebel positions in the outskirts of jucuapa, usulutan department, but no results are yet available, area residents told acan-efe.",
+      "the fmln this morning harrassed (army positions stationed near) ayutuxtepeque, north of (san) salvador, without inflicting any casualties.",
+      "coprefa also reported that the (armed) forces seized from the guerrillas 500 electric catapults, in the northern (chalatenango) department, which the fmln had used since last year to attack (san) salvador garrisons.",
+      "salvadoran (red) cross sources today reported that a 48-year-old woman identified as maria luz lopez was wounded last night when a powerful bomb, which damaged several businesses in (san) salvador, exploded.",
+      "the bomb was planted in a heavily commercial area of downtown (san) salvador causing heavy property loses, according to the owners who provided no specific figures.",
+      "this is the fourth dynamite attack on businesses in (san) salvador so far in 1990.",
+      "the guerrillas intensified their acts of sabotage against the economy, especially against the entire electrical power system, on 2 january when an unilateral military truce they decreed over the christmas and new year holidays had expired."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "the past weekend"
+      ],
+      "location": [
+        "zaragoza"
+      ],
+      "individual perpetrators": [
+        "soldier",
+        "guerrillas"
+      ],
+      "organizations responsible": [
+        "farabundo marti national liberation front",
+        "armed forces"
+      ],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "civilian",
+        "soldier",
+        "guerrillas"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "over the past weekend, clashes between the army and guerrillas resulted in the accomplished attack which killed at least eight people, including soldiers, rebels, and civilians.",
+        "the clashes took place in various points of the country, including san agustin, santa tecla, comasagua, zaragoza, tecoluca, and guazapa.",
+        "the farabundo marti national liberation front (fmln) and the armed forces were the organizations responsible for the attack, and the victims included a civilian, soldiers, and guerrillas."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "a soldier was killed in clashes with guerrillas of the farabundo marti national liberation front (fmln) in zaragoza, south of san salvador."
+      ],
+      "score": 4,
+      "model": "pegasus"
+    },
+    "summary 3": {
+      "text": [
+        "multiple attacks were carried out over the weekend across the country by the farabundo marti national liberation front (fmln) and the armed forces, resulting in casualties among soldiers, guerrillas, and civilians.",
+        "the clashes were concentrated in areas including san agustin, santa tecla, comasagua, zaragoza, and tecoluca.",
+        "the attacks were successful, with both the fmln and the armed forces inflicting damage and casualties on each other."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 4": {
+      "text": [
+        "at least eight people, including soldiers, rebels, and civilians, were killed in clashes between the army and guerrillas over the past weekend in various points of the country.",
+        "among the victims were a civilian killed in the crossfire and a soldier killed during clashes with members of the farabundo marti national liberation front (fmln) in zaragoza where two guerrillas were wounded."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 5": {
+      "text": [
+        "over the past weekend, two guerrillas were wounded and a civilian and a soldier were killed during clashes between armed forces and the farabundo marti national liberation front (fmln) in zaragoza, south of san salvador."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 6": {
+      "text": [
+        "a soldier was killed in zaragoza, south of san salvador, during clashes between the farabundo marti national liberation front (fmln) and armed forces over the past weekend."
+      ],
+      "score": 4,
+      "model": "bart"
+    }
+  },
+  "TST3-MUC4-0081.1": {
+    "document": [
+      "good evening.",
+      "i have called this news conference to read a foreign ministry communique: (words indistinct) today the panamanian government told luis sandiga cabrera, our charge d'affaires in panama, that he must leave panama in 72 hours.",
+      "2.",
+      "we have expressed to the panamanian government, through the panamanian charge d'affaires in lima, our surprise and strong protest over that decision.",
+      "3.",
+      "in view of this decision, the peruvian government has decided to reduce the personnel of its diplomatic mission in panama and to maintain its relations with that country at the first secretary level.",
+      "peru will in this way continue to fulfill the humanitarian mission of protecting those who have sought asylum in its embassy in panama while the panamanian government issues the safe-conducts that we requested in accordance to the convention on diplomatic asylum signed in caracas on 28 march 1954.",
+      "peru is contacting the members of the permanent mechanism for consultation and political agreement (group of eight) to explain the situation and to ask for solidarity and cooperation in overcoming this momentary crisis.",
+      "the delicate situation regarding the people at the peruvian embassy has provoked our justified alarm and impelled us to begin talks to ensure that their diplomatic asylum will be respected.",
+      "we have talked with the ambassadors from the countries of the permanent mechanism for consultation and political agreement.",
+      "i have personally spoken with the ambassadors of venezuela, mexico, and colombia.",
+      "i am now ready to answer any questions: (reporter) mr larco cox, unofficial sources have said that the people in the peruvian embassy in panama are not exactly political refugees but common criminals.",
+      "what do you say about this?",
+      "(larco cox) the country that grants asylum determines this.",
+      "we have been very careful to review each one of them and their files.",
+      "we have checked to see if any of them were facing any trials in panama or the united states.",
+      "our investigation has revealed that none of them are facing any trials.",
+      "the charges were made afterward.",
+      "we see this as a result of the emotional climate presently existing in panama.",
+      "(reporter) what is your personal opinion of the incident?",
+      "(larco cox) it is the diplomatic way to express a protest over what they have been led to believe.",
+      "according to panamanian reports, charge d'affaires luis sandiga has made statements on the situation that did not please the government.",
+      "the truth is that sandiga has not made any declarations.",
+      "however, former ambassador castro arenas is in panama and he has embarked on a campaign in which he is seeking retaliation against the peruvian government.",
+      "he could not think of anything better than to point at sandiga as the person responsible for alleged statements.",
+      "sandiga has not said a word about the situation because that is not his job.",
+      "besides, his car and the car belonging to one of the embassy's military attaches have been stolen; there is no way to begin an investigation.",
+      "(reporter) are you saying that former ambassador castro arenas is directly responsible for the situation?",
+      "(larco cox) you can make your own conclusions.",
+      "(reporter) if the situation deteriorates, will peru recall all of its personnel from panama?",
+      "(larco cox) we cannot go to that extreme because we are fulfilling a humanitarian cause, as we said in the communique.",
+      "our first responsibility at this time is to see that the right of asylum is respected.",
+      "as long as the refugees remain in the embassy, we will maintain our representation at the level of first secretary.",
+      "(end recording)"
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "panama"
+      ],
+      "individual perpetrators": [],
+      "organizations responsible": [],
+      "physical targets": [
+        "his car",
+        "car belonging to one of the embassy's military attaches"
+      ],
+      "type": "robbery",
+      "victims": [
+        "luis sandiga cabrera",
+        "military attache"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "luis sandiga cabrera, the charge d'affaires in panama, has been robbed.",
+        "his car and the car belonging to one of the embassy's military attaches have been stolen."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 2": {
+      "text": [
+        "luis sandiga cabrera, the charge d'affaires in panama, has been told to leave panama in 72 hours, prompting a protest by the peruvian government.",
+        "his car and the car belonging to one of the embassy's military attaches have been stolen."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 3": {
+      "text": [
+        "luis sandiga cabrera, along with a military attache, were victims of a robbery in which their cars were stolen.",
+        "the theft, which has already taken place, has no ongoing investigation.",
+        "the incident occurred while cabrera was serving as the charge d'affaires in panama."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 4": {
+      "text": [
+        "the peruvian government has announced it will reduce the personnel of its diplomatic mission in panama and maintain relations with that country at the first secretary level following a decision by the panamanian government to expel charge d'affaires luis sandiga cabrera for criticizing the government's response to a recent incident in which a car belonging to one of the embassy's military attaches was stolen."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 5": {
+      "text": [
+        "the panamanian government has ordered luis sandiga cabrera, the peruvian charge d'affaires in panama, to leave the country within 72 hours, prompting peru to reduce the personnel of its diplomatic mission in panama and maintain relations at the first secretary level.",
+        "this decision comes after the embassy's cars, including sandiga's and one belonging to a military attach\u00e9, were stolen, hindering any investigation."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 6": {
+      "text": [
+        "luis sandiga cabrera, the charge d'affaires at the peruvian embassy in panama, has been the target of a robbery, as his car has been stolen.",
+        "a car belonging to one of the embassy's military attaches was also stolen in the same incident."
+      ],
+      "score": 3,
+      "model": "ref"
+    }
+  },
+  "TST3-MUC4-0094.4": {
+    "document": [
+      "fmln-fdr (farabundo marti national liberation front-revolutionary democratic front) terrorist groups have continued their treacherous attacks against civilians and police officers in the capital and throughout the countryside, openly ignoring the agreements reached by their leaders with a government delegation in geneva, switzerland.",
+      "the armed forces telecommunications instruction center (citfa) reported that a man and a woman were critically wounded when the vehicle in which they were travelling near olocuilta, la paz department, was machinegunned by fmln terrorists on the evening of 4 april.",
+      "the wounded are mauricio campos and concepcion herrera, who were taken to a health center by the red cross, the sources added.",
+      "the national police reported that two of its agents and a civilian were fired at by terrorists at 1800 on 4 april, as they inspected a car crash between the highway to comalapa airport and 49th south avenue in the montserrat neighborhood. \"",
+      "the policemen were machinegunned down by people in a moving vehicle and sustained wounds which have left them in extremely critical condition,\" a security corps spokesman said.",
+      "the two agents were assisted by people who repudiated the attack.",
+      "a pedestrian, later identified as manuel alvaro mendoza, was also struck by the bullet and he is at rosales hospital.",
+      "a military spokesman also reported that a group of persons who identified themselves as fmln-fdr members kidnapped a peasant, jose manuel posada, near la colmena, in el carmen district, cuscatlan department.",
+      "meanwhile, 9-year-old yohalmo antonio ortiz was injured by shrapnel when terrorists threw a bomb at civil defense members in nejapa, north of san salvador, while harassing the paramilitary group's outpost.",
+      "the boy is at bloom hospital.",
+      "in the document signed by the government delegation and the fmln-fdr leaders, the latter pledged not to engage in terrorists attacks that might damage assets or injure persons, but \"urban commandos\" or \"terrorists squads\" that operate in san salvador have either not been informed of this resolution or they act independently, the military sources said.",
+      "referring to the 2 april car bomb explosion perpetrated in santa tecla, the fmln-fdr claimed responsibility for the attack in a communique, and said that it was \"an action aimed directly at the police\" and that \"they regret the death of a civilian,\" but they did not mention compensation for the relatives.",
+      "also, the fmln-fdr claimed responsibility for the attack on general rafael humberto larios's son-in-law, accusing him of being a military pilot -- when in fact he has been a civilian pilot and he was working in a small automobile spare parts distribution company at the time of the attack.",
+      "the young man, otto milla, is still in a coma and his pancreas was removed in the latest surgical operation."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "nejapa"
+      ],
+      "individual perpetrators": [
+        "fmln terrorists"
+      ],
+      "organizations responsible": [
+        "fmln"
+      ],
+      "physical targets": [
+        "paramilitary group's outpost"
+      ],
+      "type": "bombing",
+      "victims": [
+        "yohalmo antonio ortiz",
+        "civil defense members"
+      ],
+      "weapons": [
+        "bomb"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "the fmln terrorists successfully executed a bombing in nejapa, north of san salvador, against a paramilitary group's outpost.",
+        "the attack, which was carried out with a bomb, injured 9-year-old yohalmo antonio ortiz and members of the civil defense.",
+        "the fmln organization is responsible for the event."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 2": {
+      "text": [
+        "9-year-old yohalmo antonio ortiz was injured by shrapnel when terrorists threw a bomb at civil defense members in nejapa, north of san salvador."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 3": {
+      "text": [
+        "9-year-old yohalmo antonio ortiz was injured by shrapnel when fmln terrorists threw a bomb at civil defense members in nejapa, while harassing the paramilitary group's outpost."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 4": {
+      "text": [
+        "on april 2, a bombing carried out by fmln terrorists targeted a paramilitary group's outpost in nejapa, injuring 9-year-old yohalmo antonio ortiz and harassing the civil defense members.",
+        "the attack was claimed by fmln-fdr in a communique, where they admitted responsibility but did not mention compensation for the victims' relatives."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 5": {
+      "text": [
+        "fmln terrorists threw a bomb at civil defense members in nejapa, injuring 9-year-old yohalmo antonio ortiz, while harassing the paramilitary group's outpost."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "fmln terrorists threw a bomb at civil defense members in nejapa, while harassing the paramilitary group's outpost.",
+        "yohalmo antonio ortiz, 9, was injured by shrapnel and is in a critical condition at bloom hospital."
+      ],
+      "score": 3,
+      "model": "t5"
+    }
+  },
+  "TST4-MUC4-0006.1": {
+    "document": [
+      "a corporal and a guerrilla have been killed in the most recent clashes between the army and the fmln.",
+      "according to military reports, corporal alexander molina granados was killed as he was trying to defuse a mine placed by the insurgents on la noria bridge, in san marcos lempa.",
+      "according to military authorities, a lieutenant and five civilians who were passing through the area at the time were injured by the explosion.",
+      "meanwhile, troops of the civiplan battalion killed an fmln guerrilla in a skirmish on the slopes of la cruz hill in chalatenango department.",
+      "residents of quetzaltepeque reported that the rebels downed an electric tower last night on the outskirts of the town."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "la noria bridge",
+        "san marcos lempa"
+      ],
+      "individual perpetrators": [
+        "insurgents"
+      ],
+      "organizations responsible": [
+        "fmln"
+      ],
+      "physical targets": [
+        "la noria bridge"
+      ],
+      "type": "bombing",
+      "victims": [
+        "alexander molina granados",
+        "lieutenant",
+        "civilians"
+      ],
+      "weapons": [
+        "mine"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "corporal alexander molina granados was killed trying to defuse a mine placed by insurgents of the fmln on la noria bridge in san marcos lempa.",
+        "a lieutenant and five civilians were also injured by the explosion."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 2": {
+      "text": [
+        "in the most recent clashes between the army and the fmln, a corporal named alexander molina granados was killed while attempting to defuse a mine placed by the insurgents on la noria bridge in san marcos lempa.",
+        "the explosion also injured a lieutenant and five civilians who were passing through the area at the time."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 3": {
+      "text": [
+        "in a bombing orchestrated by insurgents from fmln, corporal alexander molina granados was killed and a lieutenant and civilians were injured while trying to defuse a mine on la noria bridge in san marcos lempa.",
+        "the event is completed and the mine was the weapon used.",
+        "the bridge was the physical target of the attack."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 4": {
+      "text": [
+        "in the most recent clashes between the army and the fmln, a corporal and a guerrilla were killed.",
+        "corporal alexander molina granados was killed while attempting to defuse a mine placed by the insurgents on la noria bridge in san marcos lempa.",
+        "the explosion also injured a lieutenant and five civilians passing through the area at the time."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 5": {
+      "text": [
+        "a corporal and a guerrilla were killed in the most recent clashes between the army and the fmln.",
+        "the corporal alexander molina granados was killed as he tried to defuse a mine placed by insurgents on la noria bridge in san marcos lempa.",
+        "a lieutenant and five civilians passing by were injured by the explosion."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "corporal alexander molina granados was killed while trying to defuse a mine placed by insurgents on la noria bridge in san marcos lempa.",
+        "a lieutenant and five civilians passing by were injured by the explosion."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    }
+  },
+  "TST4-MUC4-0013.1": {
+    "document": [
+      "a judge has ordered the release of former captain alvaro sanabria, who is implicated in the assassination of msgr oscar arnulfo romero, because of contradictory statements by a key witness.",
+      "court sources have explained, however, that the constitutional court will now have to decide whether or not to accept the acquittal of the soldier.",
+      "the decision issued by justice romeo aurora acquitting and ordering the release of the former captain was made, according to the document, because amado antonio garay reyes--the alleged driver of the person who assassinated msgr romero--cannot be considered a reliable witness.",
+      "the judgement presented to the constitutional court notes that this witness has made statements that contradict testimony he gave at the 4th criminal court 7 years after the crime was committed.",
+      "for this reason, the judge, based on articles 497 and 498 of the penal code and article 53 of the constitutional procedures law has ruled that there is no merit for arresting the military man, who has been tried in absentia.",
+      "however, court officials have explained that this document issued by judge aurora is only a report on his ruling, which according to the law can be either revoked or confirmed by the constitutional court.",
+      "for this reason, this decision is not being viewed as a final ruling.",
+      "(passage omitted)"
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [],
+      "individual perpetrators": [
+        "former captain alvaro sanabria"
+      ],
+      "organizations responsible": [],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "oscar arnulfo romero"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "former captain alvaro sanabria, implicated in the attack on oscar arnulfo romero, has been ordered to be released by a judge due to the unreliability of a key witness's contradictory statements.",
+        "the decision for sanabria's acquittal is yet to be confirmed or revoked by the constitutional court.",
+        "the event, therefore, remains unresolved as the decision is not viewed as a final ruling."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 2": {
+      "text": [
+        "former captain alvaro sanabria, who is implicated in the assassination of msgr oscar arnulfo romero, has been ordered to be released due to contradictory statements by a key witness.",
+        "the decision to release him was made by judge romeo aurora, who stated that the witness cannot be considered reliable.",
+        "however, this decision is not final and will be reviewed by the constitutional court."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 3": {
+      "text": [
+        "former captain alvaro sanabria is implicated in the assassination of msgr oscar arnulfo romero and has been ordered to be released by a judge due to contradictory statements made by a key witness."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 4": {
+      "text": [
+        "a judge has ordered the release of former captain alvaro sanabria, implicated in the assassination of msgr oscar arnulfo romero, due to contradictory statements made by a key witness."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 5": {
+      "text": [
+        "former captain alvaro sanabria has been implicated in the assassination of msgr oscar arnulfo romero, but has been ordered to be released by a judge due to contradictory statements made by a key witness, amado antonio garay reyes."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 6": {
+      "text": [
+        "former captain alvaro sanabria, implicated in the assassination of msgr oscar arnulfo romero, has been released by a judge."
+      ],
+      "score": 3,
+      "model": "bart"
+    }
+  },
+  "TST4-MUC4-0019.1": {
+    "document": [
+      "two terrorist attacks were carried out in lima last night.",
+      "the lima agrarian unit (unidad agraria de lima) and the economy ministry were the targets of the insane terrorist actions.",
+      "a powerful bomb exploded in the front of departmental agrarian unit no 6, located on block no 5 of uruguay avenue.",
+      "the attack came at approximately 2230 last night.",
+      "members of the civil guard, the republican guard antiexplosives brigade, and the peruvian investigative police went to the site of the explosion.",
+      "the members of the republican guard antiexplosives brigade are investigating to determine the magnitude of the bomb used in this attack.",
+      "(recorded passage omitted) the economy and finance ministry building was another target of the terrorists' actions this evening.",
+      "the terrorists planted a bomb inside a vehicle belonging to emol entero.",
+      "the bomb went off at approximately 2230.",
+      "(recorded passage omitted)"
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "last night"
+      ],
+      "location": [
+        "lima"
+      ],
+      "individual perpetrators": [
+        "terrorists"
+      ],
+      "organizations responsible": [],
+      "physical targets": [
+        "lima agrarian unit [unidad agraria de lima]",
+        "economy ministry",
+        "vehicle belonging to emol entero"
+      ],
+      "type": "bombing",
+      "victims": [],
+      "weapons": [
+        "powerful bomb",
+        "bomb"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "last night in lima, terrorists planted a bomb inside a vehicle belonging to emol entero that was parked outside the economy and finance ministry building."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 2": {
+      "text": [
+        "terrorists successfully carried out bombings in lima last night, specifically targeting the lima agrarian unit and the economy ministry.",
+        "a powerful bomb was detonated in front of the lima agrarian unit and a second bomb was planted in a vehicle belonging to emol entero at the economy ministry.",
+        "both explosions occurred at approximately 2230."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 3": {
+      "text": [
+        "last night, in lima, terrorists planted a bomb inside a vehicle belonging to emol entero.",
+        "the attack, carried out by the lima agrarian unit (unidad agraria de lima), targeted the economy ministry and the civil guard."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 4": {
+      "text": [
+        "last night in lima, terrorists planted a powerful bomb inside a vehicle belonging to emol entero, targeting the lima agrarian unit (unidad agraria de lima) and the economy ministry."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 5": {
+      "text": [
+        "terrorists carried out two attacks last night in lima, targeting the lima agrarian unit (unidad agraria de lima) and the economy ministry.",
+        "a powerful bomb exploded in front of the lima agrarian unit, while another bomb was planted in a vehicle belonging to emol entero and detonated at the economy and finance ministry building.",
+        "the attacks occurred at approximately 22:30."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 6": {
+      "text": [
+        "two accomplished terrorist attacks were carried out in lima last night, targeting the lima agrarian unit and the economy ministry.",
+        "in the first attack, a powerful bomb exploded at the lima agrarian unit, while in the second attack, a bomb was planted inside a vehicle belonging to emol entero, which went off later."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    }
+  },
+  "TST4-MUC4-0021.2": {
+    "document": [
+      "three new terrorist attacks were carried out early this morning, at an airport in barranquilla, at the communist party headquarters in florencia, and at the cerro azul military installations in uraba.",
+      "the police confirmed that unidentified individuals armed with machineguns attacked the colombian air force installations in the capital of atlantico.",
+      "there were no casualties.",
+      "the malambo area, close to the barranquilla international airport, where the air base is located, was immediately militarized.",
+      "guards at the site repelled the attack, which was apparently staged by guerrillas.",
+      "similarly, it was learned that a bomb exploded today at the communist party headquarters in the capital of caqueta, causing considerable property damage.",
+      "it was immediately announced that no one had been injured or killed in the extremist action.",
+      "it was also announced that suspected subversives staged another attack on the installations of the battalion stationed in uraba at cerro azul, near turbo.",
+      "these terrorist attacks took place 1 day after the serious attack launched at the 2d army division headquarters in bucaramanga, which resulted in seven people injured and considerable property damage, affecting nine homes."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "bucaramanga"
+      ],
+      "individual perpetrators": [
+        "terrorist"
+      ],
+      "organizations responsible": [],
+      "physical targets": [
+        "2d army division headquarters",
+        "homes"
+      ],
+      "type": "attack",
+      "victims": [
+        "people"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "the serious attack launched at the 2d army division headquarters in bucaramanga on tuesday resulted in seven people injured and considerable property damage, affecting nine homes."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 2": {
+      "text": [
+        "three terrorist attacks were carried out in barranquilla, florencia, and uraba, with targets including an airport, communist party headquarters, and military installations.",
+        "the attacks resulted in property damage and no casualties were reported.",
+        "these attacks occurred one day after a previous attack on the 2d army division headquarters in bucaramanga, which resulted in injuries and property damage to homes."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 3": {
+      "text": [
+        "a terrorist attack launched at the 2d army division headquarters in bucaramanga last night resulted in seven people injured and considerable property damage, affecting nine homes."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 4": {
+      "text": [
+        "terrorists successfully carried out an attack affecting the 2d army division headquarters and several homes.",
+        "the attack resulted in injuries among the general populace.",
+        "this violent act follows a series of other recent terrorist activities."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 5": {
+      "text": [
+        "a terrorist attack on the 2d army division headquarters in bucaramanga resulted in seven people injured and considerable property damage, affecting nine homes."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 6": {
+      "text": [
+        "there was a terrorist attack on the 2d army division headquarters in bucaramanga, which resulted in injuries to seven people and property damage to nine homes."
+      ],
+      "score": 3,
+      "model": "ref"
+    }
+  },
+  "TST4-MUC4-0031.1": {
+    "document": [
+      "an explosion has destroyed a section of the multipurpose pipeline running from barrancabermeja to bucaramanga.",
+      "the explosion occurred in alto de san pablo while gasoline and propane gas were being pumped to bucaramanga.",
+      "we have a report now from teresa rueda.",
+      "(begin recording) (rueda) communications to and from puerto petrolero and bucaramanga have been cut off since early today, after an attempt to dynamite the multipurpose pipeline destroyed a 100-meter section of the central highway.",
+      "the supply of gas to bucaramanga will also be affected by this event.",
+      "it is estimated that it will take at least 3 days to restore normal traffic, because it will be necessary to use dynamite to remove rocks currently blocking the highway.",
+      "the attempted sabotage occurred at the 65-km mark on the bucaramanga - barrancabermeja highway, 20 km from the place where a military convoy was ambushed last wednesday.",
+      "this is the second time that an attempted sabotage of the bucaramanga - barrancabermeja multipurpose pipeline, which carries propane gas, gasoline, and acpm (not further identified) has taken place.",
+      "the explosion destroyed a 30-meter section of pipeline, and sparked a fire that has not yet been extinguished.",
+      "losses caused by the sabotage, which has been attributed to the eln, have yet to be ascertained.",
+      "it is estimated that repairs to the highway alone will cost the public works ministry 5 million pesos.",
+      "(ismael orozco, public works director for the 5th district) well, after initial talks with ecopetrol (colombian petroleum enterprise) technicians today, beginning at 1700, after the fire is under control, they will begin restoring service on the oil pipeline.",
+      "(rueda) at this time, there is traffic congestion near the sugamoso bridge.",
+      "(end recording) (passage omitted) while still on the subject, ecopetrol's president, who traveled this morning to barrancabermeja to attend a forum on the magdalena river, reported that, so far this year, terrorist attacks have cost his company $300 million.",
+      "we have this report from maria clara gracia.",
+      "(begin recording) (gracia) ecopetrol has lost 95 billion pesos in revenues this year due to the 44 terrorist attacks on the cano limon - covenas oil pipeline.",
+      "in these attacks, 13.2 million barrels of crude oil have been lost.",
+      "the areas most affected by these attacks are in sucre, arauca, norte de santander, and santander departments.",
+      "(reporter alvaro ayala) doctor, could these terrorist attacks lead to an increase in fuel prices in colombia?",
+      "(dr andres restrepo londono, president of ecopetrol) obviously, there will come a time when, faced with increasing internal production costs and falling revenues, we are going to have to consider compensating our losses with an increase in domestic oil prices, but that is a measure we are not about to adopt at this time.",
+      "(gracia) today's landslide, which destroyed a section of the multipurpose pipeline between barrancabermeja and bucaramanga, has resulted in estimated losses totalling 1.435 billion pesos.",
+      "(passage omitted) (end recording)"
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "colombia",
+        "alto de san pablo"
+      ],
+      "individual perpetrators": [
+        "terrorist"
+      ],
+      "organizations responsible": [
+        "eln"
+      ],
+      "physical targets": [
+        "section of the multipurpose pipeline running from barrancabermeja to bucaramanga",
+        "100-meter section of the central highway"
+      ],
+      "type": "bombing",
+      "victims": [],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "an explosion today in alto de san pablo has destroyed a 100-meter section of the multipurpose pipeline running from barrancabermeja to bucaramanga.",
+        "this is the second time this year that an attempted sabotage has taken place on the pipeline, which carries propane gas, gasoline, and acpm."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 2": {
+      "text": [
+        "a bombing orchestrated by terrorists from the organization eln successfully destroyed a section of the multipurpose pipeline running from barrancabermeja to bucaramanga, as well as a 100-meter section of the central highway.",
+        "the attack took place near alto de san pablo while gasoline and propane gas were being pumped to bucaramanga.",
+        "this is the second sabotage attempt on this pipeline, causing significant damage and disruption."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 3": {
+      "text": [
+        "on an unspecified date, a bombing carried out by the terrorist group eln accomplished the destruction of a 100-meter section of the central highway and a section of the multipurpose pipeline running from barrancabermeja to bucaramanga in colombia.",
+        "the attack resulted in estimated losses totaling 1.435 billion pesos."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 4": {
+      "text": [
+        "in alto de san pablo, colombia, a bombing carried out by the terrorist organization eln has successfully destroyed a section of the multipurpose pipeline running from barrancabermeja to bucaramanga, as well as a 100-meter section of the central highway.",
+        "traffic and communication have been disrupted, and it is estimated that it will take at least 3 days to restore normal traffic due to the need to remove rocks blocking the highway using dynamite."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 5": {
+      "text": [
+        "an explosion today in alto de san pablo, colombia destroyed a section of the multipurpose pipeline running from barrancabermeja to bucaramanga.",
+        "the explosion destroyed a 30-meter section of pipeline, and sparked a fire that has not yet been extinguished."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "an explosion today destroyed a section of the multipurpose pipeline running from barrancabermeja to bucaramanga, and a 100-meter section of the central highway in alto de san pablo.",
+        "the eln is believed to be responsible for the attack.",
+        "communications between puerto petrolero and bucaramanga have been cut off since early today."
+      ],
+      "score": 3,
+      "model": "t5"
+    }
+  },
+  "TST4-MUC4-0037.2": {
+    "document": [
+      "two bombs set off by fmln urban guerrillas last night partially destroyed the recently built la torre de cristal building on roosevelt avenue in san salvador.",
+      "the explosions caused no injuries, but damage to the eastern side of the first floor is estimated at several million colons.",
+      "it is not known who owns the building.",
+      "(passage omitted) in other military actions, one guerrilla was killed and two soldiers were injured in clashes in san vicente department.",
+      "according to official reports, the clash took place near tecoluca when rebels tried to attack troops from the military engineers detachment.",
+      "the fmln last night blew up the administrative offices of the (name indistinct) seaside resort in la paz department.",
+      "there were no injuries.",
+      "at daybreak today, fmln guerrillas blew up a power pole at galera quemada canton, ilobasco jurisdiction."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "la paz"
+      ],
+      "individual perpetrators": [],
+      "organizations responsible": [
+        "fmln"
+      ],
+      "physical targets": [
+        "administrative offices of the [name indistinct] seaside resort"
+      ],
+      "type": "bombing",
+      "victims": [],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "on an unspecified date, fmln urban guerrillas successfully carried out a bombing, partially destroying the recently built la torre de cristal building on roosevelt avenue in san salvador.",
+        "the bombings caused no injuries, but the eastern side of the first floor suffered several million colons worth of damage.",
+        "additionally, the fmln also blew up the administrative offices of an indistinct seaside resort in the la paz department, resulting in no injuries."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "the fmln blew up the administrative offices of the (name indistinct) seaside resort in la paz department.",
+        "these actions caused significant damage but resulted in no injuries."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 3": {
+      "text": [
+        "last night, fmln urban guerrillas blew up the administrative offices of the (name indistinct) seaside resort in la paz department.",
+        "there were no injuries."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 4": {
+      "text": [
+        "the fmln last night blew up the administrative offices of the (name indistinct) seaside resort in la paz department."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 5": {
+      "text": [
+        "last night, the fmln blew up the administrative offices of the (name indistinct) seaside resort in la paz department."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "the fmln guerrillas successfully executed a bombing at the administrative offices of an unnamed seaside resort.",
+        "the bombing was part of a series of attacks carried out by the fmln.",
+        "the document does not mention when or where this seaside resort is located."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    }
+  },
+  "TST4-MUC4-0044.1": {
+    "document": [
+      "the manuel rodriguez patriotic front (fpmr) will develop a new form of struggle called the \"national patriotic war,\" \"which will start at any moment.\"",
+      "this information was disclosed yesterday to el mercurio by fpmr spokesman victor diaz caro, who said that the truce during the plebiscite was to prepare the phase they are now starting.",
+      "he also confirmed the statement in brussels this week by fpmr international spokesman marcelo reyes.",
+      "diaz caro, who has confessed to being one of the snipers who participated in the attack on president augusto pinochet, is currently under arrest in the santiago prison, and, together with vasily carillo nova, he is national spokesman for one of the factions of this extremist organization.",
+      "diaz caro, who was arrested in late 1986 by the police, announced that in \"a matter of hours\" they will start subversive actions.",
+      "he explained that this new phase of armed struggle will be carried out \"from arica down to magallanes.\"",
+      "at the same time he referred to the results of the plebiscite, stating that although they respect those who voted \"no,\" \"the only aspect of the victory of the `no' we accept is that pinochet leave power.\"",
+      "in referring to the fpmr's change of strategy, diaz caro disclosed that the decision was made during a meeting of the organization's leaders last april.",
+      "of this occasion they discussed the line that the terrorist organization should follow.",
+      "they also decided to give up the idea of an \"armed rebellion,\" which prevailed until then.",
+      "the main characteristic of that idea was that the organization served to complement class struggle (as it did in its origin in 1983), to support the people's rebellion to paralyze the country and to perpetrate attacks against the established regime.",
+      "diaz caro disclosed that during the meeting they decided to replace the rebellion with the search for a patriotic unity government.",
+      "he said that \"we realize that ousting the regime is subject to negotiations under a provincial government.\"",
+      "according to diaz caro this is when they realized the \"need for a `truce' because they needed to plan greater steps.\"",
+      "he added that \"this is when what we call the `national patriotic war' surfaced.",
+      "the main issue of this war is the armed struggle; we are no longer a mere complement to the people.",
+      "it represents a qualitative step forward and entails greater responsibilities.\"",
+      "diaz caro disclosed that this new phase will require a greater quantity of weapons, more men, and all the support necessary to operate.",
+      "he said that the months of truce were used to fulfill these needs.",
+      "the spokesman added that during the meeting they also decided on the need to establish a non-isolated action. \"",
+      "we thought that actions in santiago, concepcion, and valparaiso would be the solution, but that was not the case.\"",
+      "diaz caro explained that \"this is why we now realize that the struggle should be carried out from arica down to magallanes, throughout the territory and in various forms.\"",
+      "(continued)"
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [],
+      "individual perpetrators": [
+        "victor diaz caro",
+        "snipers"
+      ],
+      "organizations responsible": [
+        "manuel rodriguez patriotic front"
+      ],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "augusto pinochet"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "victor diaz caro, a spokesman for the manuel rodriguez patriotic front (fpmr), who is currently in santiago prison, confessed to being one of the snipers involved in an accomplished attack on president augusto pinochet.",
+        "the attack was carried out by the fpmr, with diaz caro and other snipers as the individual perpetrators.",
+        "the victim of this attack was president augusto pinochet."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 2": {
+      "text": [
+        "victor diaz caro, a spokesman for the manuel rodriguez patriotic front, confessed to being one of the snipers who participated in the attack on president augusto pinochet."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 3": {
+      "text": [
+        "the manuel rodriguez patriotic front (fpmr) will develop a new form of struggle called the \"national patriotic war,\" \"which will start at any moment.\"",
+        "this information was disclosed yesterday to el mercurio by fpmr spokesman victor diaz caro, who revealed that the truce during the plebiscite was to prepare the phase they are now starting.",
+        "diaz caro, who has confessed to being one of the snipers who participated in the attack on president augusto pinochet, is currently under arrest in the santiago prison, and, together with vasily carillo nova, he is national spokesman for one of the factions of this extremist organization."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 4": {
+      "text": [
+        "victor diaz caro, a spokesman for the manuel rodriguez patriotic front (fpmr) has confessed to being one of the snipers involved in the attack on president augusto pinochet."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 5": {
+      "text": [
+        "victor diaz caro, who has confessed to being one of the snipers who participated in the attack on president augusto pinochet, is currently under arrest in the santiago prison.",
+        "the manuel rodriguez patriotic front (fpmr) will develop a new form of struggle called the \"national patriotic war,\" which will start at any moment."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "yesterday, victor diaz caro, a spokesman for the manuel rodriguez patriotic front (fpmr), announced to el mercurio that the fpmr has developed a new form of struggle called the \"national patriotic war,\" which will involve subversive actions throughout chile, from arica to magallanes.",
+        "diaz caro, who admitted to being one of the snipers involved in the attack on president augusto pinochet, stated that this change in strategy was decided during an april meeting of fpmr leaders, where they also discussed the need for a truce to plan their next steps and fulfill their needs for weapons and support."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    }
+  },
+  "TST4-MUC4-0054.1": {
+    "document": [
+      "six guerrillas of a still unidentified group died today in a skirmish with army troops in morelia, caqueta department.",
+      "meanwhile, in ciudad bolivar, antioquia department, insurgents apparently belonging to the national liberation army placed a bomb in the city's administrative offices and also destroyed four farms, causing approximately 100 million pesos in damage."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "today"
+      ],
+      "location": [
+        "ciudad bolivar",
+        "antioquia"
+      ],
+      "individual perpetrators": [
+        "insurgents apparently belonging to the national liberation army"
+      ],
+      "organizations responsible": [
+        "national liberation army"
+      ],
+      "physical targets": [
+        "city's administrative offices",
+        "farms"
+      ],
+      "type": "bombing",
+      "victims": [],
+      "weapons": [
+        "bomb"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "insurgents belonging to the national liberation army successfully carried out a bombing in ciudad bolivar, antioquia department, targeting the city's administrative offices and destroying four farms.",
+        "the attack caused approximately 100 million pesos in damage."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "insurgents apparently belonging to the national liberation army placed a bomb in the city's administrative offices today and destroyed four farms, causing approximately 100 million pesos in damage."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 3": {
+      "text": [
+        "today, insurgents apparently belonging to the national liberation army successfully carried out a bombing in ciudad bolivar, antioquia department, targeting the city's administrative offices.",
+        "in addition, they also destroyed four farms, causing approximately 100 million pesos in damage."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 4": {
+      "text": [
+        "insurgents, purportedly from the national liberation army, successfully executed a bombing in ciudad bolivar, antioquia department.",
+        "the city's administrative offices and four farms were targeted, resulting in significant damage.",
+        "the attack led to an estimated loss of around 100 million pesos."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 5": {
+      "text": [
+        "in ciudad bolivar, antioquia department, insurgents apparently belonging to the national liberation army placed a bomb in the city's administrative offices and also destroyed four farms, causing approximately 100 million pesos in damage."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 6": {
+      "text": [
+        "in ciudad bolivar, antioquia department, insurgents apparently belonging to the national liberation army placed a bomb in the city's administrative offices and destroyed four farms, causing approximately 100 million pesos in damage."
+      ],
+      "score": 3,
+      "model": "bart"
+    }
+  },
+  "TST4-MUC4-0055.1": {
+    "document": [
+      "members of the bomb squad have deactivated a powerful bomb planted at the andres avelino caceres park, where president alan garcia was due to participate in the commemoration of the battle of tarapaca."
+    ],
+    "event": {
+      "stage of completion": "attempted",
+      "date": [],
+      "location": [],
+      "individual perpetrators": [],
+      "organizations responsible": [],
+      "physical targets": [
+        "andres avelino caceres park"
+      ],
+      "type": "bombing",
+      "victims": [
+        "alan garcia"
+      ],
+      "weapons": [
+        "powerful bomb"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "a powerful bomb was successfully deactivated by the bomb squad at andres avelino caceres park, where president alan garcia was scheduled to participate in the battle of tarapaca commemoration event."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 2": {
+      "text": [
+        "an attempted bombing involving a powerful bomb was thwarted at the andres avelino caceres park.",
+        "the bomb squad deactivated the bomb.",
+        "the intended victim of the attack was president alan garcia."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 3": {
+      "text": [
+        "members of the bomb squad have deactivated a powerful bomb planted at the andres avelino caceres park, where president alan garcia was due to participate in the commemoration of the battle of tarapaca."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 4": {
+      "text": [
+        "members of the bomb squad have deactivated a powerful bomb planted at the andres avelino caceres park, where president alan garcia was due to participate in the commemoration of the battle of tarapaca."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 5": {
+      "text": [
+        "members of the bomb squad deactivated a powerful bomb planted at andres avelino caceres park, where president alan garcia was to participate in the commemoration of the battle of tarapaca."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 6": {
+      "text": [
+        "members of the bomb squad have deactivated a powerful bomb planted at the andres avelino caceres park, where president alan garcia was due to participate in the commemoration of the battle of tarapaca."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    }
+  },
+  "TST4-MUC4-0057.1": {
+    "document": [
+      "colonel mauricio ernesto vargas, commander of the army's 3d brigade in san miguel, has stated that the armed forces is not involved in death squad actions and that such actions are contrary to the institution's regulations.",
+      "vargas was referring specifically to the murder of three peasants in morazan, of which the army is being accused: (begin recording) (vargas) our values and the values of the system we defend do not allow us to execute, kidnap, or steal.",
+      "the system states we are to comply with our laws and let the responsible institutions determine guilt or innocence.",
+      "we cannot be judge and jury in such situations.",
+      "(end recording) the most recent case for which the army is being blamed is the murder of three peasants in yamabal canton, morazan, on 12 november.",
+      "vargas denied armed forces complicity in these murders and stated that humanitarian organizations must investigate in cases of this nature so they can present evidence and accuse a specific sector.",
+      "he added that he has evidence the army was not present in yamabal canton on the day of the triple murder: (begin recording) (vargas) i directly accuse the fmln and tell the humanitarian organizations that are accusing the armed forces to investigate the fmln.",
+      "the humanitarian organizations must not accept dialectic conclusions such as the ones made by the criminal joaquin villalobos, who said we executed and (words indistinct).",
+      "they are not god.",
+      "they talk as if the world belonged to them.",
+      "there are laws and a legal framework in this country.",
+      "our system has a legal framework, and we have to base ourselves on it.",
+      "there are humanitarian organizations that have become corrupt and have become accomplices of the fmln's murder; they remain silent and do not defend justice, laws, and principles.",
+      "regarding this case, i accuse the fmln of these deaths.",
+      "we have evidence the fmln is responsible for the acts presently being reported in the northwestern zone.",
+      "(end recording) col vargas also criticized the work done by some humanitarian orgnizations and said they use human rights as an excuse to protect sectors that share their ideology."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "12 november"
+      ],
+      "location": [
+        "morazan",
+        "yamabal"
+      ],
+      "individual perpetrators": [],
+      "organizations responsible": [
+        "fmln"
+      ],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "peasants"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "the fmln is accused by colonel mauricio ernesto vargas, commander of the 3rd brigade in san miguel, of executing an attack that resulted in the murder of three peasants in morazan.",
+        "the attack, for which the army was initially blamed, took place in the yamabal canton, morazan, on 12th november.",
+        "the colonel denied the army's involvement and insisted that the fmln was responsible."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 2": {
+      "text": [
+        "on november 12, three peasants in yamabal canton, morazan, were murdered in an attack accomplished by the fmln.",
+        "colonel mauricio ernesto vargas, commander of the army's 3d brigade in san miguel, denied the army's involvement and accused the fmln of being responsible for the deaths, stating that humanitarian organizations should investigate them instead.",
+        "he also criticized certain humanitarian organizations for using human rights as an excuse to protect sectors that share their ideology."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 3": {
+      "text": [
+        "colonel mauricio ernesto vargas, commander of the army's 3d brigade in san miguel, accuses the fmln of the murder of three peasants in yamabal canton, morazan, on 12 november."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 4": {
+      "text": [
+        "colonel mauricio ernesto vargas accuses the fmln of the murder of three peasants in morazan, yamabal canton, on 12 november."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 5": {
+      "text": [
+        "colonel mauricio ernesto vargas accuses the fmln of the murder of three peasants in yamabal canton on 12 november."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 6": {
+      "text": [
+        "colonel mauricio ernesto vargas denies the army's involvement in death squad actions and accuses the fmln of being responsible for the murder of three peasants in yamabal canton, morazan, on 12 november."
+      ],
+      "score": 3,
+      "model": "ref"
+    }
+  },
+  "TST4-MUC4-0077.1": {
+    "document": [
+      "presumed shining path maoist extremists ambushed and killed 68 peasants in the locality of balcon, 200 km north of the southern city of ayacucho.",
+      "a peasant defense patrol unit was combing the area in search of guerrillas when it was ambushed on 22 november, the newspaper expreso reported today.",
+      "the wave of violence has hit peruvian tourist establishments in the city of huaraz, capital of the ancash department, where four inns and hotels were bombed last night, damaging the buildings and injuring an 18 year-old girl.",
+      "in cusco, 1,000 km southeast of lima, a bus (as received) heading toward machu pichu went out of control as the result of sabotage and fell into a 60-meter ravine.",
+      "the wives of the jersey city, united states, and cusco mayors died in this accident.",
+      "leftist senator enrique bernales ballesteros, president of the special commission for the investigation and study of terrorism and violence, has noted that the escalation of violence has claimed the lives of 21 people per day during the month of november.",
+      "he said that the increased violence can be traced to actions by the terrorist groups shining path and tupac amaru revolutionary movement (mrta).",
+      "these attacks were repressed by the forces of order.",
+      "senator bernales reported that 630 people were killed in violent acts in november and that 1,775 have been killed over the past 12 months.",
+      "bernales said that 403 people were killed in november as a result of violent acts, including 147 civilians, 165 presumed terrorists, 65 armed forces members, and 26 drug traffickers.",
+      "a total of 227 people were killed in urban violent acts.",
+      "senator bernales added that a total of nearly 13,000 people have been killed since the terrorist violence began in 1980.",
+      "bernales expressed his concern over the fact that 67 percent of the people killed in violent acts involved youths who were between 15 and 29 years of age.",
+      "he asked the government to establish guidelines to counter this social phenomenon.",
+      "amid this bloody and destructive situation, the peruvian episcopal conference has made a christmas appeal, asking that--without ignoring \"the seriousness of the situation\"--for a truce \"for peace, reconciliation, and tranquillity\" to prevail in the country.",
+      "the bishops said: \"recalling he who prevailed over death, we call upon those who have resorted to violence and killings as a solution to the evils of society, to allow the citizens for whom they claim to struggle to live like brothers.\""
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "22 november"
+      ],
+      "location": [
+        "balcon"
+      ],
+      "individual perpetrators": [
+        "presumed shining path maoist extremists"
+      ],
+      "organizations responsible": [
+        "shining path"
+      ],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "peasant defense patrol unit"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "on november 22nd, presumed shining path maoist extremists successfully ambushed a peasant defense patrol unit in the locality of balcon, 200 km north of ayacucho, killing 68 peasants.",
+        "the attack was executed while the patrol unit was searching for guerrillas in the area.",
+        "the shining path organization is held responsible for this violent incident."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 2": {
+      "text": [
+        "on 22 november, presumed shining path maoist extremists ambushed and killed 68 peasants in the locality of balcon, 200 km north of the southern city of ayacucho.",
+        "the peasant defense patrol unit was combing the area in search of guerrillas when it was ambushed."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 3": {
+      "text": [
+        "on 22 november, a peasant defense patrol unit was ambushed and killed by presumed shining path maoist extremists in the locality of balcon."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 4": {
+      "text": [
+        "on november 22, presumed shining path maoist extremists ambushed and killed 68 peasants from a peasant defense patrol unit in balcon, peru."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 5": {
+      "text": [
+        "on 22 november, presumed shining path maoist extremists ambushed and killed 68 peasants in the locality of balcon.",
+        "a peasant defense patrol unit was combing the area in search of guerrillas when it was ambushed."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 6": {
+      "text": [
+        "presumed shining path maoist extremists ambushed and killed 68 peasants in the locality of balcon, 200 km north of the southern city of ayacucho, on 22 november.",
+        "the victims were members of a peasant defense patrol unit."
+      ],
+      "score": 3,
+      "model": "ref"
+    }
+  },
+  "TST4-MUC4-0088.3": {
+    "document": [
+      "four alleged terrorists, all wearing ski masks, murdered mayor alfredo chamorro in the small town of pallanchacra.",
+      "chamorro was a member of the governing apra.",
+      "this information was released in lima today.",
+      "the attack was perpetrated at dawn on tuesday, 13 december, when the terrorists burst into the mayor's home.",
+      "chamorro had previously received death threats.",
+      "pallanchacra is located some 30 km from cerro de pasco, capital of pasco department, in central peru.",
+      "moreover, one of the bodyguards of hugo garcia salvatecci, bank and insurance superintendant, is recovering in a clinic in lima from an attack by alleged terrorists who shot him as a \"warning.\"",
+      "in other events, police have identified the body of a man found last saturday, 10 december, on kilometer 12 of the south panamerican highway.",
+      "he was apparently shot.",
+      "the individual was identified as an alleged member of the peruvian communist party, with entries in police records.",
+      "a poster which read \"an eye for an eye.",
+      "for what the workers revolutionary movement (mor) in bolivia did,\" was found on the body.",
+      "the authors of the crime were presumably referring to the murder in la paz, bolivia, of peruvian naval attache juan carlos vega llona.",
+      "the self-styled mor claimed responsibility for the killing."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [],
+      "location": [
+        "peru"
+      ],
+      "individual perpetrators": [
+        "terrorists"
+      ],
+      "organizations responsible": [],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "one of the bodyguards of hugo garcia salvatecci",
+        "bank and insurance superintendant"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "one of the bodyguards of hugo garcia salvatecci, bank and insurance superintendant, is recovering in a clinic in lima from an attack by alleged terrorists."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 2": {
+      "text": [
+        "an accomplished attack by terrorists targeted one of the bodyguards of hugo garcia salvatecci, the bank and insurance superintendent, as per the information released.",
+        "this violent event resulted in the bodyguard being injured and subsequently recovering in a clinic in lima.",
+        "the assault appears to have been a 'warning' shot by the alleged terrorists."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 3": {
+      "text": [
+        "one of the bodyguards of hugo garcia salvatecci, bank and insurance superintendant, is recovering in a clinic in lima from an attack by alleged terrorists who shot him as a \"warning.\""
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 4": {
+      "text": [
+        "one of the bodyguards of hugo garcia salvatecci, a bank and insurance superintendant, was shot in peru and is recovering in a clinic in lima from an attack by alleged terrorists."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 5": {
+      "text": [
+        "on tuesday, december 13th, in the small town of pallanchacra, peru, four terrorists wearing ski masks successfully carried out an attack, murdering mayor alfredo chamorro, a member of the governing apra party.",
+        "additionally, one of the bodyguards of hugo garcia salvatecci, a bank and insurance superintendent, was shot and injured by alleged terrorists as a warning."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 6": {
+      "text": [
+        "one of the bodyguards of hugo garcia salvatecci, bank and insurance superintendant, is recovering in a clinic in lima from an attack by alleged terrorists."
+      ],
+      "score": 3,
+      "model": "bart"
+    }
+  },
+  "TST4-MUC4-0097.1": {
+    "document": [
+      "this morning, three bombs destroyed a checkpoint that was being built in santa fe, antioquia department, at a place known as paseo real.",
+      "according to the authorities, the losses exceed 3 million pesos."
+    ],
+    "event": {
+      "stage of completion": "accomplished",
+      "date": [
+        "this morning"
+      ],
+      "location": [
+        "paseo real",
+        "santa fe",
+        "antioquia"
+      ],
+      "individual perpetrators": [],
+      "organizations responsible": [],
+      "physical targets": [
+        "checkpoint"
+      ],
+      "type": "bombing",
+      "victims": [],
+      "weapons": [
+        "three bombs"
+      ]
+    },
+    "summary 1": {
+      "text": [
+        "this morning, three bombs destroyed a checkpoint being built in santa fe, antioquia department.",
+        "the losses exceed 3 million pesos."
+      ],
+      "score": 3,
+      "model": "bart"
+    },
+    "summary 2": {
+      "text": [
+        "this morning, three bombs destroyed a checkpoint that was being built in santa fe, antioquia department, at a place known as paseo real.",
+        "the losses exceed 3 million pesos."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 3": {
+      "text": [
+        "this morning, three bombs destroyed a checkpoint being built in santa fe, antioquia department, at a place known as paseo real.",
+        "the losses from the bombing exceed 3 million pesos."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 4": {
+      "text": [
+        "this morning, in santa fe, antioquia department, three bombs were used to destroy a checkpoint being built in a location known as paseo real.",
+        "the authorities have reported losses exceeding 3 million pesos."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 5": {
+      "text": [
+        "a bombing event occurred this morning, where three bombs were used to destroy a checkpoint under construction at paseo real in santa fe, antioquia department."
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 6": {
+      "text": [
+        "this morning, a checkpoint that was under construction in santa fe, antioquia department, at paseo real, was destroyed by three bombs."
+      ],
+      "score": 3,
+      "model": "ref"
+    }
+  },
+  "TST4-MUC4-0099.1": {
+    "document": [
+      "the terrorist manuel rodriguez patriotic front (fpmr) in the latest issue of its official publication has reported on the failure last may of its operation aimed at murdering military judge fernando torres silva.",
+      "the article justifies the operation and reiterates that \"the fpmr has not given up its decision to carry out its sentence of capital punishment for this individual.\"",
+      "the issue also publishes an editorial confirming the need to reinvigorate the \"national patriotic war.\"",
+      "remembering the fpmr fifth anniversary, the editorial urges the militants \"to continue the armed fight against tyranny.\"",
+      "a report then reviews the most important terrorist attacks perpetrated in 1988.",
+      "the report emphasizes the ambush on carabineros patrols, the occupation of lo quenes and agua grande village, and retired colonel rojas lobos' execution.",
+      "some pages are dedicated to raul pellegrini, alias \"commander rodrigo,\" and other fpmr \"heroes,\" including cecilia magni, alias \"commander tamara.\"",
+      "the issue, which was distributed a few days before christmas, includes a pamphlet with instructions on how to manufacture bombs, and poems urging the people to join the subversion and the armed fight."
+    ],
+    "event": {
+      "stage of completion": "attempted",
+      "date": [
+        "last may"
+      ],
+      "location": [],
+      "individual perpetrators": [],
+      "organizations responsible": [
+        "manuel rodriguez patriotic front"
+      ],
+      "physical targets": [],
+      "type": "attack",
+      "victims": [
+        "fernando torres silva"
+      ],
+      "weapons": []
+    },
+    "summary 1": {
+      "text": [
+        "the manuel rodriguez patriotic front reported on the failure of an attack last may aimed at murdering military judge fernando torres silva."
+      ],
+      "score": 3,
+      "model": "t5"
+    },
+    "summary 2": {
+      "text": [
+        "the latest issue of the manuel rodriguez patriotic front's official publication reports on the attempted murder of military judge fernando torres silva last may."
+      ],
+      "score": 3,
+      "model": "ref"
+    },
+    "summary 3": {
+      "text": [
+        "in may, the manuel rodriguez patriotic front (fpmr) attempted an unsuccessful attack on military judge fernando torres silva, as reported in their official publication.",
+        "the fpmr justified the failed operation and reiterated their intent to carry out the \"capital punishment\" for silva.",
+        "the announcement of this attempted assassination was revealed in the fpmr's publication distributed a few days before christmas.",
+        "\n"
+      ],
+      "score": 3,
+      "model": "gpt4"
+    },
+    "summary 4": {
+      "text": [
+        "the manuel rodriguez patriotic front (fpmr) reported on their failed operation to murder military judge fernando torres silva in the latest issue of their publication, reaffirming their decision to carry out his capital punishment.",
+        "the issue also encourages militants to continue the armed fight against tyranny and includes a report highlighting significant terrorist attacks in 1988, as well as instructions on bomb-making and poems promoting subversion and armed resistance."
+      ],
+      "score": 3,
+      "model": "chatgpt"
+    },
+    "summary 5": {
+      "text": [
+        "in its official publication, the manuel rodriguez patriotic front (fpmr) reports on the failure last may of its operation to murder military judge fernando torres silva."
+      ],
+      "score": 3,
+      "model": "pegasus"
+    },
+    "summary 6": {
+      "text": [
+        "the terrorist manuel rodriguez patriotic front (fpmr) reported on the failure of its operation aimed at murdering military judge fernando torres silva last may.",
+        "the fpmr has not given up its decision to carry out capital punishment for this individual."
+      ],
+      "score": 3,
+      "model": "bart"
+    }
+  }
+}
