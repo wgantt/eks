@@ -2,7 +2,7 @@
 
 This is the official repository for the MUCSUM dataset and for the following paper:
 
->*Event-Keyed Summarization.* William Gantt, Alexander Martin, Pavlo Kuchmiichuk, and Aaron Steven White.
+>*Event-Keyed Summarization.* William Gantt, Alexander Martin, Pavlo Kuchmiichuk, and Aaron Steven White. [arXiv:2402.06973](https://arxiv.org/abs/2402.06973).
 
 If you use MUCSUM or any of the code or resources in this repository, we ask that you please cite this paper.
 
